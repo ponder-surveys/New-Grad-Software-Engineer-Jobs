@@ -44,11 +44,9 @@
   "usOnly": true,
   "titleInclude": "software|developer|\\bswe\\b|front[- ]?end|back[- ]?end|full[- ]?stack|mobile|\\bios\\b|android|platform|infrastructure|devops|site reliability|\\bsre\\b|data engineer|data scientist|data analyst|machine learning|ml engineer|ai engineer|security engineer|security analyst|cloud|\\bqa\\b|test engineer|embedded|firmware|systems engineer|solutions engineer|web develop",
   "titleExclude": "senior|staff|principal|\\blead\\b|manager|director|\\bvp\\b|head of|intern\\b|internship|co-?op\\b|ph\\.?d",
-  "windowDays": 7,
   "maxRows": 300,
-  "minWindowRows": 100,
   "minRows": 25,
-  "maxPagesPerSource": 60,
+  "maxPagesPerSource": 220,
   "groupBy": "functionPrimary",
   "showAiColumn": false,
   "siblings": [
@@ -82,5 +80,7 @@
       "q": "Can a tool apply to these for me?",
       "a": "Yes. <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-new-grad-swe\">Dreamwork</a> matches your resume against every listing here, tailors each application, and can submit them for you. Seeing your matches is free."
     }
-  ]
+  ],
+  "mode": "inventory",
+  "international": true
 }
