@@ -16,9 +16,9 @@
 <p align="center">
   <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=link_row&utm_campaign=gh-new-grad-swe">dreamworkhq.com</a>
   ·
-  <a href="https://www.dreamworkhq.com/research?utm_source=github&utm_medium=link_row&utm_campaign=gh-new-grad-swe">Hiring research</a>
+  <a href="https://www.dreamworkhq.com/blog?utm_source=github&utm_medium=link_row&utm_campaign=gh-new-grad-swe">Blog</a>
   ·
-  <a href="https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=link_row&utm_campaign=gh-new-grad-swe">AI Labor Index</a>
+  <a href="https://www.dreamworkhq.com/research?utm_source=github&utm_medium=link_row&utm_campaign=gh-new-grad-swe">Hiring research</a>
   ·
   <a href="../../issues">Report a listing</a>
 </p>
@@ -171,7 +171,7 @@ Rather not scan a table? [Dreamwork](https://www.dreamworkhq.com/?utm_source=git
 - [Remote Tech Jobs: fully remote engineering roles](https://github.com/dreamworkhq/Remote-Tech-Jobs)
 - [AI and ML Jobs: AI-first roles, classified daily](https://github.com/dreamworkhq/AI-ML-Jobs)
 - [Dreamwork Research, live hiring data](https://www.dreamworkhq.com/research?utm_source=github&utm_medium=readme_links&utm_campaign=gh-new-grad-swe)
-- [AI Labor Index](https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=readme_links&utm_campaign=gh-new-grad-swe)
+- [How to use Dreamwork, guides and tutorials](https://www.dreamworkhq.com/how-to?utm_source=github&utm_medium=readme_links&utm_campaign=gh-new-grad-swe)
 
 ## FAQ
 
