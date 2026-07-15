@@ -51,8 +51,8 @@
   "showAiColumn": false,
   "siblings": [
     {
-      "repo": "dreamworkhq/Tech-Internships-2026",
-      "label": "Tech Internships 2026: SWE, data, product, and design internships"
+      "repo": "dreamworkhq/Tech-Internships-2027",
+      "label": "2026–2027 Tech Internships: SWE, data, security, product, and design internships"
     },
     {
       "repo": "dreamworkhq/Remote-Tech-Jobs",
@@ -70,7 +70,7 @@
     },
     {
       "q": "What counts as a new grad job here?",
-      "a": "Roles classified as junior in engineering, data, or security. Senior, staff, and management titles are filtered out, and so are internships, which have <a href=\"https://github.com/dreamworkhq/Tech-Internships-2026\">their own list</a>. Most roles fit 2025 to 2027 graduates in CS and related fields."
+      "a": "Roles classified as junior in engineering, data, or security. Senior, staff, and management titles are filtered out, and so are internships, which have <a href=\"https://github.com/dreamworkhq/Tech-Internships-2027\">their own list</a>. Most roles fit 2025 to 2027 graduates in CS and related fields."
     },
     {
       "q": "Where does the salary data come from?",
