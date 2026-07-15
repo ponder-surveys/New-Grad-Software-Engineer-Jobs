@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T02:34:24.282Z",
+  "generatedAt": "2026-07-15T03:26:25.796Z",
   "source": "https://www.dreamworkhq.com",
   "list": "New-Grad-Software-Engineer-Jobs",
-  "count": 666,
+  "count": 667,
   "listings": [
     {
       "id": "f3040a4a-dc45-4cf5-9114-d41d65b3f7a7",
@@ -299,20 +299,6 @@
       "url": "https://www.dreamworkhq.com/job/84aee36a-2a29-412b-8d9b-9cd626a72bd2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "27bb91be-41d8-40e0-8087-ede6a1897948",
-      "title": "Software Engineer (Entry-Level) - C++",
-      "company": "Akunacapital",
-      "companyDomain": "akunacapital.com",
-      "location": "Chicago, IL",
-      "remoteType": "onsite",
-      "salaryMin": 145000,
-      "salaryMax": 145000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T18:41:18.000Z",
-      "firstIndexedAt": "2026-07-14T09:16:52.078Z",
-      "url": "https://www.dreamworkhq.com/job/27bb91be-41d8-40e0-8087-ede6a1897948?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "98df4d9c-6178-46ba-a10e-af7def06eb21",
       "title": "Software Engineer (Entry-Level) - Python",
       "company": "Akunacapital",
@@ -325,6 +311,20 @@
       "postedAt": "2026-07-13T18:21:16.000Z",
       "firstIndexedAt": "2026-07-14T09:16:52.078Z",
       "url": "https://www.dreamworkhq.com/job/98df4d9c-6178-46ba-a10e-af7def06eb21?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "27bb91be-41d8-40e0-8087-ede6a1897948",
+      "title": "Software Engineer (Entry-Level) - C++",
+      "company": "Akunacapital",
+      "companyDomain": "akunacapital.com",
+      "location": "Chicago, IL",
+      "remoteType": "onsite",
+      "salaryMin": 145000,
+      "salaryMax": 145000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T18:41:18.000Z",
+      "firstIndexedAt": "2026-07-14T09:16:52.078Z",
+      "url": "https://www.dreamworkhq.com/job/27bb91be-41d8-40e0-8087-ede6a1897948?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "78024558-a2c7-4417-b2aa-85813d534153",
@@ -537,20 +537,6 @@
       "url": "https://www.dreamworkhq.com/job/3ee6f788-7e91-4d23-b163-87a25ef73522?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "705b5d47-f06c-4842-b9dc-aa98ebf4dc56",
-      "title": "Advanced Systems Engineer - Regional Strike Programs",
-      "company": "General Dynamics Mission Systems",
-      "companyDomain": "gdmissionsystems.com",
-      "location": "Pittsfield, MA, US",
-      "remoteType": "hybrid",
-      "salaryMin": 112924,
-      "salaryMax": 125275,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T04:00:00.000Z",
-      "firstIndexedAt": "2026-07-14T08:55:09.320Z",
-      "url": "https://www.dreamworkhq.com/job/705b5d47-f06c-4842-b9dc-aa98ebf4dc56?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "e9de65b4-d2ca-47b9-950b-7bb1e07422a2",
       "title": "Systems Engineer - Regional Strike Programs (Hardware-Systems/Systems/Test & Integration/MBSE)",
       "company": "General Dynamics Mission Systems",
@@ -563,6 +549,20 @@
       "postedAt": "2026-07-13T04:00:00.000Z",
       "firstIndexedAt": "2026-07-14T08:55:09.320Z",
       "url": "https://www.dreamworkhq.com/job/e9de65b4-d2ca-47b9-950b-7bb1e07422a2?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "705b5d47-f06c-4842-b9dc-aa98ebf4dc56",
+      "title": "Advanced Systems Engineer - Regional Strike Programs",
+      "company": "General Dynamics Mission Systems",
+      "companyDomain": "gdmissionsystems.com",
+      "location": "Pittsfield, MA, US",
+      "remoteType": "hybrid",
+      "salaryMin": 112924,
+      "salaryMax": 125275,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T04:00:00.000Z",
+      "firstIndexedAt": "2026-07-14T08:55:09.320Z",
+      "url": "https://www.dreamworkhq.com/job/705b5d47-f06c-4842-b9dc-aa98ebf4dc56?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "bbcf18e2-c727-4e1c-a2c8-1ecce4c3ad38",
@@ -579,20 +579,6 @@
       "url": "https://www.dreamworkhq.com/job/bbcf18e2-c727-4e1c-a2c8-1ecce4c3ad38?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "9879e828-a19f-4157-8693-1a0a272e9e0b",
-      "title": "Product Engineer - Fusion GRC Platform",
-      "company": "Allstate",
-      "companyDomain": "allstatecorporation.com",
-      "location": "USA - IL (Remote)",
-      "remoteType": "remote",
-      "salaryMin": 75100,
-      "salaryMax": 126325,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:54:21.904Z",
-      "firstIndexedAt": "2026-07-14T08:54:25.640Z",
-      "url": "https://www.dreamworkhq.com/job/9879e828-a19f-4157-8693-1a0a272e9e0b?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "ff7a6db4-62b7-4206-8675-f01f054568e1",
       "title": "AI Product Engineer (Copilot & Power Platform) (Remote - US)",
       "company": "Allstate",
@@ -605,6 +591,20 @@
       "postedAt": "2026-07-13T08:54:22.065Z",
       "firstIndexedAt": "2026-07-14T08:54:25.640Z",
       "url": "https://www.dreamworkhq.com/job/ff7a6db4-62b7-4206-8675-f01f054568e1?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "9879e828-a19f-4157-8693-1a0a272e9e0b",
+      "title": "Product Engineer - Fusion GRC Platform",
+      "company": "Allstate",
+      "companyDomain": "allstatecorporation.com",
+      "location": "USA - IL (Remote)",
+      "remoteType": "remote",
+      "salaryMin": 75100,
+      "salaryMax": 126325,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T08:54:21.904Z",
+      "firstIndexedAt": "2026-07-14T08:54:25.640Z",
+      "url": "https://www.dreamworkhq.com/job/9879e828-a19f-4157-8693-1a0a272e9e0b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "65575d45-06d8-4685-8892-e20c2a11ba29",
@@ -621,7 +621,21 @@
       "url": "https://www.dreamworkhq.com/job/65575d45-06d8-4685-8892-e20c2a11ba29?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "2c2c3b0a-8faf-41b1-b6eb-30b0dc6bc873",
+      "id": "ee5b8265-c32c-4c5e-b083-c0181ab6110f",
+      "title": "(USA) Software Engineer II",
+      "company": "Walmart",
+      "companyDomain": "walmart.com",
+      "location": "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
+      "remoteType": "onsite",
+      "salaryMin": 80000,
+      "salaryMax": 155000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T08:53:19.319Z",
+      "firstIndexedAt": "2026-07-14T08:53:25.291Z",
+      "url": "https://www.dreamworkhq.com/job/ee5b8265-c32c-4c5e-b083-c0181ab6110f?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "38c47519-c417-4939-a75f-08196c1b96f2",
       "title": "(USA) Software Engineer III",
       "company": "Walmart",
       "companyDomain": "walmart.com",
@@ -630,9 +644,9 @@
       "salaryMin": 90000,
       "salaryMax": 180000,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T08:53:19.362Z",
+      "postedAt": "2026-07-13T08:53:19.384Z",
       "firstIndexedAt": "2026-07-14T08:53:25.291Z",
-      "url": "https://www.dreamworkhq.com/job/2c2c3b0a-8faf-41b1-b6eb-30b0dc6bc873?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/38c47519-c417-4939-a75f-08196c1b96f2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "6ef17fb3-a778-409d-b966-dc7e86bcba3a",
@@ -647,20 +661,6 @@
       "postedAt": "2026-07-13T08:53:19.275Z",
       "firstIndexedAt": "2026-07-14T08:53:25.291Z",
       "url": "https://www.dreamworkhq.com/job/6ef17fb3-a778-409d-b966-dc7e86bcba3a?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "ee5b8265-c32c-4c5e-b083-c0181ab6110f",
-      "title": "(USA) Software Engineer II",
-      "company": "Walmart",
-      "companyDomain": "walmart.com",
-      "location": "(USA) ISD Office - DGTC AR BENTONVILLE Home Office",
-      "remoteType": "onsite",
-      "salaryMin": 80000,
-      "salaryMax": 155000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T08:53:19.319Z",
-      "firstIndexedAt": "2026-07-14T08:53:25.291Z",
-      "url": "https://www.dreamworkhq.com/job/ee5b8265-c32c-4c5e-b083-c0181ab6110f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "8d8f87f5-b1b0-4589-8eca-bdfda3ed740b",
@@ -719,20 +719,6 @@
       "url": "https://www.dreamworkhq.com/job/337250c2-d552-45a6-b96d-cc4d88b77f55?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "7353769b-a033-4618-88cc-24449d09256b",
-      "title": "Overhead SIGINT Systems Engineer",
-      "company": "Peraton",
-      "companyDomain": "peraton.com",
-      "location": "Fort Meade, MD, US",
-      "remoteType": "onsite",
-      "salaryMin": 176000,
-      "salaryMax": 282000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T04:00:00.000Z",
-      "firstIndexedAt": "2026-07-14T08:52:49.972Z",
-      "url": "https://www.dreamworkhq.com/job/7353769b-a033-4618-88cc-24449d09256b?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "01f241dd-8af0-429c-ab5a-c5699fc56107",
       "title": "Entry-Level Full Stack Software Developer",
       "company": "Peraton",
@@ -747,18 +733,18 @@
       "url": "https://www.dreamworkhq.com/job/01f241dd-8af0-429c-ab5a-c5699fc56107?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "d8e268fb-ff89-4914-acd5-426d453cdeed",
-      "title": "Systems Engineer",
+      "id": "7353769b-a033-4618-88cc-24449d09256b",
+      "title": "Overhead SIGINT Systems Engineer",
       "company": "Peraton",
       "companyDomain": "peraton.com",
-      "location": "Chantilly, VA, US",
-      "remoteType": "hybrid",
-      "salaryMin": 112000,
-      "salaryMax": 179000,
+      "location": "Fort Meade, MD, US",
+      "remoteType": "onsite",
+      "salaryMin": 176000,
+      "salaryMax": 282000,
       "aiRoleKind": "non_ai",
       "postedAt": "2026-07-13T04:00:00.000Z",
-      "firstIndexedAt": "2026-07-14T08:52:48.478Z",
-      "url": "https://www.dreamworkhq.com/job/d8e268fb-ff89-4914-acd5-426d453cdeed?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "firstIndexedAt": "2026-07-14T08:52:49.972Z",
+      "url": "https://www.dreamworkhq.com/job/7353769b-a033-4618-88cc-24449d09256b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "a4ae78a5-8adf-47f4-8bb8-c1133b151e56",
@@ -773,6 +759,20 @@
       "postedAt": "2026-07-13T04:00:00.000Z",
       "firstIndexedAt": "2026-07-14T08:52:48.478Z",
       "url": "https://www.dreamworkhq.com/job/a4ae78a5-8adf-47f4-8bb8-c1133b151e56?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "d8e268fb-ff89-4914-acd5-426d453cdeed",
+      "title": "Systems Engineer",
+      "company": "Peraton",
+      "companyDomain": "peraton.com",
+      "location": "Chantilly, VA, US",
+      "remoteType": "hybrid",
+      "salaryMin": 112000,
+      "salaryMax": 179000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T04:00:00.000Z",
+      "firstIndexedAt": "2026-07-14T08:52:48.478Z",
+      "url": "https://www.dreamworkhq.com/job/d8e268fb-ff89-4914-acd5-426d453cdeed?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "6a35f53e-3dd2-481c-82e9-1c60387abcd8",
@@ -985,20 +985,6 @@
       "url": "https://www.dreamworkhq.com/job/3fe0a724-97fe-463a-9053-724e968c03eb?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "713aa903-6cd5-4a77-a7ea-64ac084730e5",
-      "title": "Software Engineer",
-      "company": "Accenture Federal Services",
-      "companyDomain": "accenturefederal.com",
-      "location": "Annapolis Junction, MD",
-      "remoteType": "onsite",
-      "salaryMin": 120000,
-      "salaryMax": 220000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T22:49:52.000Z",
-      "firstIndexedAt": "2026-07-14T08:42:17.203Z",
-      "url": "https://www.dreamworkhq.com/job/713aa903-6cd5-4a77-a7ea-64ac084730e5?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "de47a1f2-2e69-46be-8eaf-d58cc01e402c",
       "title": "Systems Engineer",
       "company": "Accenture Federal Services",
@@ -1013,8 +999,22 @@
       "url": "https://www.dreamworkhq.com/job/de47a1f2-2e69-46be-8eaf-d58cc01e402c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "6a5d5dc6-bdd1-4070-9dea-63a19fe598ee",
-      "title": "Jr. DevOps Engineer",
+      "id": "713aa903-6cd5-4a77-a7ea-64ac084730e5",
+      "title": "Software Engineer",
+      "company": "Accenture Federal Services",
+      "companyDomain": "accenturefederal.com",
+      "location": "Annapolis Junction, MD",
+      "remoteType": "onsite",
+      "salaryMin": 120000,
+      "salaryMax": 220000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T22:49:52.000Z",
+      "firstIndexedAt": "2026-07-14T08:42:17.203Z",
+      "url": "https://www.dreamworkhq.com/job/713aa903-6cd5-4a77-a7ea-64ac084730e5?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "cd3c090c-f19b-4dbf-a0e0-9389dc70e5ca",
+      "title": "Jr. Systems Engineer",
       "company": "Accenture Federal Services",
       "companyDomain": "accenturefederal.com",
       "location": "Annapolis Junction, MD",
@@ -1022,9 +1022,9 @@
       "salaryMin": 90000,
       "salaryMax": 120000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T22:19:23.000Z",
+      "postedAt": "2026-07-13T23:07:52.000Z",
       "firstIndexedAt": "2026-07-14T08:42:03.652Z",
-      "url": "https://www.dreamworkhq.com/job/6a5d5dc6-bdd1-4070-9dea-63a19fe598ee?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/cd3c090c-f19b-4dbf-a0e0-9389dc70e5ca?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "6aee60ef-47aa-43a3-8e55-b0d74fb014ea",
@@ -1041,8 +1041,8 @@
       "url": "https://www.dreamworkhq.com/job/6aee60ef-47aa-43a3-8e55-b0d74fb014ea?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "cd3c090c-f19b-4dbf-a0e0-9389dc70e5ca",
-      "title": "Jr. Systems Engineer",
+      "id": "6a5d5dc6-bdd1-4070-9dea-63a19fe598ee",
+      "title": "Jr. DevOps Engineer",
       "company": "Accenture Federal Services",
       "companyDomain": "accenturefederal.com",
       "location": "Annapolis Junction, MD",
@@ -1050,9 +1050,9 @@
       "salaryMin": 90000,
       "salaryMax": 120000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T23:07:52.000Z",
+      "postedAt": "2026-07-13T22:19:23.000Z",
       "firstIndexedAt": "2026-07-14T08:42:03.652Z",
-      "url": "https://www.dreamworkhq.com/job/cd3c090c-f19b-4dbf-a0e0-9389dc70e5ca?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/6a5d5dc6-bdd1-4070-9dea-63a19fe598ee?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "4be5b153-dfe4-40b4-bc59-ee0281cb80ca",
@@ -1111,20 +1111,6 @@
       "url": "https://www.dreamworkhq.com/job/b9213f9b-3645-4114-9ce4-155a9a46a5a0?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "89fffa4a-a5c2-4fdd-a818-ecbf8e66752d",
-      "title": "Sr. Software Engineer - Patient Onboarding (Remote)",
-      "company": "Rula",
-      "companyDomain": "rula.com",
-      "location": "Remote - United States",
-      "remoteType": "remote",
-      "salaryMin": 172550,
-      "salaryMax": 203000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T21:43:40.096Z",
-      "firstIndexedAt": "2026-07-14T08:39:50.830Z",
-      "url": "https://www.dreamworkhq.com/job/89fffa4a-a5c2-4fdd-a818-ecbf8e66752d?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "3489a8f3-4c55-4c20-8d88-29c8175c31ed",
       "title": "Software Engineer 2 - Patient Onboarding (Remote)",
       "company": "Rula",
@@ -1137,6 +1123,20 @@
       "postedAt": "2026-07-13T21:55:38.647Z",
       "firstIndexedAt": "2026-07-14T08:39:50.830Z",
       "url": "https://www.dreamworkhq.com/job/3489a8f3-4c55-4c20-8d88-29c8175c31ed?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "89fffa4a-a5c2-4fdd-a818-ecbf8e66752d",
+      "title": "Sr. Software Engineer - Patient Onboarding (Remote)",
+      "company": "Rula",
+      "companyDomain": "rula.com",
+      "location": "Remote - United States",
+      "remoteType": "remote",
+      "salaryMin": 172550,
+      "salaryMax": 203000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T21:43:40.096Z",
+      "firstIndexedAt": "2026-07-14T08:39:50.830Z",
+      "url": "https://www.dreamworkhq.com/job/89fffa4a-a5c2-4fdd-a818-ecbf8e66752d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "678b3716-6901-4777-8cf4-85412cb28f00",
@@ -1419,20 +1419,6 @@
       "url": "https://www.dreamworkhq.com/job/c0c92029-9d76-48ea-b8c6-0ea452c5ad36?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "7f234c88-7246-4d59-8ef5-5731c869a3a9",
-      "title": "Software Engineer III",
-      "company": "ZoomInfo",
-      "companyDomain": "zoominfo.com",
-      "location": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 112000,
-      "salaryMax": 176000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T18:45:36.000Z",
-      "firstIndexedAt": "2026-07-14T08:20:37.269Z",
-      "url": "https://www.dreamworkhq.com/job/7f234c88-7246-4d59-8ef5-5731c869a3a9?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "909fe603-9418-459c-94cf-c899d952461a",
       "title": "Software Engineer III ",
       "company": "ZoomInfo",
@@ -1445,6 +1431,20 @@
       "postedAt": "2026-07-13T22:31:34.000Z",
       "firstIndexedAt": "2026-07-14T08:20:37.269Z",
       "url": "https://www.dreamworkhq.com/job/909fe603-9418-459c-94cf-c899d952461a?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "7f234c88-7246-4d59-8ef5-5731c869a3a9",
+      "title": "Software Engineer III",
+      "company": "ZoomInfo",
+      "companyDomain": "zoominfo.com",
+      "location": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 112000,
+      "salaryMax": 176000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T18:45:36.000Z",
+      "firstIndexedAt": "2026-07-14T08:20:37.269Z",
+      "url": "https://www.dreamworkhq.com/job/7f234c88-7246-4d59-8ef5-5731c869a3a9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "98f01eea-3142-407b-8130-29e33f7a65e1",
@@ -1573,18 +1573,18 @@
       "url": "https://www.dreamworkhq.com/job/a855f5c1-885a-4e0a-8f29-727b9afb0f98?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "36dee862-60e5-45cc-a4fc-7cb31f4b16f6",
-      "title": "Software Engineer I- (Onsite)",
+      "id": "0bba3fe0-d0de-4f3d-8cb7-3866cfdb7840",
+      "title": "APU/TJ Sr. Engine Systems Software Engineer P3 (Onsite)",
       "company": "RTX (Raytheon)",
       "companyDomain": "rtx.com",
-      "location": "US-CA-FULLERTON-676 ~ 1801 Hughes Dr ~ BLDG 676",
+      "location": "US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG",
       "remoteType": "hybrid",
-      "salaryMin": 62900,
-      "salaryMax": 119700,
+      "salaryMin": 86800,
+      "salaryMax": 165200,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-06T08:11:34.301Z",
+      "postedAt": "2026-07-06T08:11:35.386Z",
       "firstIndexedAt": "2026-07-14T08:12:27.109Z",
-      "url": "https://www.dreamworkhq.com/job/36dee862-60e5-45cc-a4fc-7cb31f4b16f6?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/0bba3fe0-d0de-4f3d-8cb7-3866cfdb7840?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "92653de1-40fb-45b9-b893-31346383194a",
@@ -1629,6 +1629,20 @@
       "url": "https://www.dreamworkhq.com/job/c799463c-d688-4e1d-aeb6-fa0e1e59f554?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "3f0ce6dc-fce9-4c4e-9a47-d7a5277a74b7",
+      "title": "AI Native MTS1 Software Engineer, Risk",
+      "company": "eBay",
+      "companyDomain": "ebay.com",
+      "location": "San Jose",
+      "remoteType": "onsite",
+      "salaryMin": 172000,
+      "salaryMax": 229600,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T08:11:46.981Z",
+      "firstIndexedAt": "2026-07-14T08:12:02.677Z",
+      "url": "https://www.dreamworkhq.com/job/3f0ce6dc-fce9-4c4e-9a47-d7a5277a74b7?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "5445e8a7-f641-41ec-89e9-aeac168f8762",
       "title": "MTS 1, Software Engineer",
       "company": "eBay",
@@ -1655,20 +1669,6 @@
       "postedAt": "2026-07-13T08:11:46.997Z",
       "firstIndexedAt": "2026-07-14T08:12:02.677Z",
       "url": "https://www.dreamworkhq.com/job/b719c876-1a08-400b-aeb4-70fae800a57c?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "3f0ce6dc-fce9-4c4e-9a47-d7a5277a74b7",
-      "title": "AI Native MTS1 Software Engineer, Risk",
-      "company": "eBay",
-      "companyDomain": "ebay.com",
-      "location": "San Jose",
-      "remoteType": "onsite",
-      "salaryMin": 172000,
-      "salaryMax": 229600,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T08:11:46.981Z",
-      "firstIndexedAt": "2026-07-14T08:12:02.677Z",
-      "url": "https://www.dreamworkhq.com/job/3f0ce6dc-fce9-4c4e-9a47-d7a5277a74b7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "105eb950-f086-42ee-8c6b-5412f0302dcc",
@@ -1699,18 +1699,18 @@
       "url": "https://www.dreamworkhq.com/job/bba5cb95-360f-42fd-84e6-c2bcd54f37d9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "d2d23717-79c1-4fdb-bdff-9933e738a77b",
-      "title": "2026 Raytheon Full Time - Software Engineer I - McKinney, TX (Onsite)",
+      "id": "6a12cede-2ca9-4e11-a3ab-00ea59b126c6",
+      "title": "Systems Engineer II",
       "company": "RTX (Raytheon)",
       "companyDomain": "rtx.com",
-      "location": "US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG",
+      "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
       "remoteType": "hybrid",
-      "salaryMin": 57200,
-      "salaryMax": 108800,
+      "salaryMin": 68900,
+      "salaryMax": 131100,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:10:54.241Z",
+      "postedAt": "2026-07-13T08:10:54.171Z",
       "firstIndexedAt": "2026-07-14T08:11:55.956Z",
-      "url": "https://www.dreamworkhq.com/job/d2d23717-79c1-4fdb-bdff-9933e738a77b?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/6a12cede-2ca9-4e11-a3ab-00ea59b126c6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "3b4b7e56-7476-4537-8f5c-686a3d2c220b",
@@ -1725,6 +1725,20 @@
       "postedAt": "2026-07-13T08:10:53.988Z",
       "firstIndexedAt": "2026-07-14T08:11:55.956Z",
       "url": "https://www.dreamworkhq.com/job/3b4b7e56-7476-4537-8f5c-686a3d2c220b?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "d2d23717-79c1-4fdb-bdff-9933e738a77b",
+      "title": "2026 Raytheon Full Time - Software Engineer I - McKinney, TX (Onsite)",
+      "company": "RTX (Raytheon)",
+      "companyDomain": "rtx.com",
+      "location": "US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG",
+      "remoteType": "hybrid",
+      "salaryMin": 57200,
+      "salaryMax": 108800,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T08:10:54.241Z",
+      "firstIndexedAt": "2026-07-14T08:11:55.956Z",
+      "url": "https://www.dreamworkhq.com/job/d2d23717-79c1-4fdb-bdff-9933e738a77b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "85cfaeaa-0335-4dd3-862a-b1b2b09727e4",
@@ -1755,18 +1769,18 @@
       "url": "https://www.dreamworkhq.com/job/831a9671-4d0d-4d99-8ce6-272b627ccd5c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "6a12cede-2ca9-4e11-a3ab-00ea59b126c6",
-      "title": "Systems Engineer II",
+      "id": "4c55e433-f633-43a3-b271-fc15e1ec1fe0",
+      "title": "Software Engineer II –AI Enabled Tactical Autonomy",
       "company": "RTX (Raytheon)",
       "companyDomain": "rtx.com",
-      "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+      "location": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
       "remoteType": "hybrid",
       "salaryMin": 68900,
       "salaryMax": 131100,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:10:54.171Z",
-      "firstIndexedAt": "2026-07-14T08:11:55.956Z",
-      "url": "https://www.dreamworkhq.com/job/6a12cede-2ca9-4e11-a3ab-00ea59b126c6?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T08:10:49.468Z",
+      "firstIndexedAt": "2026-07-14T08:11:52.676Z",
+      "url": "https://www.dreamworkhq.com/job/4c55e433-f633-43a3-b271-fc15e1ec1fe0?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "1e6bd5e5-9a80-43da-bbb4-9994b4261f84",
@@ -1797,18 +1811,18 @@
       "url": "https://www.dreamworkhq.com/job/b0b10fe6-2b26-46e2-bdcd-6852300131b5?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "4c55e433-f633-43a3-b271-fc15e1ec1fe0",
-      "title": "Software Engineer II –AI Enabled Tactical Autonomy",
-      "company": "RTX (Raytheon)",
-      "companyDomain": "rtx.com",
-      "location": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
-      "remoteType": "hybrid",
-      "salaryMin": 68900,
-      "salaryMax": 131100,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T08:10:49.468Z",
-      "firstIndexedAt": "2026-07-14T08:11:52.676Z",
-      "url": "https://www.dreamworkhq.com/job/4c55e433-f633-43a3-b271-fc15e1ec1fe0?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "id": "875c1c63-9ea1-4e9e-89e2-81887db3cec7",
+      "title": "Machine Learning Engineer 3- 7882",
+      "company": "Comcast",
+      "companyDomain": "comcast.com",
+      "location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+      "remoteType": "remote",
+      "salaryMin": 135000,
+      "salaryMax": 165000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-13T08:10:23.022Z",
+      "firstIndexedAt": "2026-07-14T08:11:01.388Z",
+      "url": "https://www.dreamworkhq.com/job/875c1c63-9ea1-4e9e-89e2-81887db3cec7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "f69c30d7-59bd-456e-b6c6-4af6dc9614fd",
@@ -1823,20 +1837,6 @@
       "postedAt": "2026-07-13T08:10:23.260Z",
       "firstIndexedAt": "2026-07-14T08:11:01.388Z",
       "url": "https://www.dreamworkhq.com/job/f69c30d7-59bd-456e-b6c6-4af6dc9614fd?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "875c1c63-9ea1-4e9e-89e2-81887db3cec7",
-      "title": "Machine Learning Engineer 3- 7882",
-      "company": "Comcast",
-      "companyDomain": "comcast.com",
-      "location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-      "remoteType": "remote",
-      "salaryMin": 135000,
-      "salaryMax": 165000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-13T08:10:23.022Z",
-      "firstIndexedAt": "2026-07-14T08:11:01.388Z",
-      "url": "https://www.dreamworkhq.com/job/875c1c63-9ea1-4e9e-89e2-81887db3cec7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "c0b25ffe-097f-498b-9362-4717f07bd6c2",
@@ -1923,20 +1923,6 @@
       "url": "https://www.dreamworkhq.com/job/87974598-5d70-44d0-b5ff-9bdd924f9376?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "8570f6d1-2e4e-4110-8c78-a9e65fd3263a",
-      "title": "NCIS Systems Engineer | Active TS/SCI clearance",
-      "company": "Gdit",
-      "companyDomain": "gdit.com",
-      "location": "USA VA Quantico",
-      "remoteType": "onsite",
-      "salaryMin": 147292,
-      "salaryMax": 199278,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:06:47.486Z",
-      "firstIndexedAt": "2026-07-14T08:07:12.740Z",
-      "url": "https://www.dreamworkhq.com/job/8570f6d1-2e4e-4110-8c78-a9e65fd3263a?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "1b8d09ff-8265-4ac9-a7eb-1bfd8df986f3",
       "title": "MCCO Software Developer SME | Active TS/SCI CI Poly",
       "company": "Gdit",
@@ -1951,18 +1937,32 @@
       "url": "https://www.dreamworkhq.com/job/1b8d09ff-8265-4ac9-a7eb-1bfd8df986f3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "5fba146c-29c6-450b-8036-6f4c960e96a2",
-      "title": "Cloud Engineer, Sr.",
+      "id": "8570f6d1-2e4e-4110-8c78-a9e65fd3263a",
+      "title": "NCIS Systems Engineer | Active TS/SCI clearance",
       "company": "Gdit",
       "companyDomain": "gdit.com",
-      "location": "USA VA Springfield",
-      "remoteType": "hybrid",
-      "salaryMin": 162150,
-      "salaryMax": 164382,
+      "location": "USA VA Quantico",
+      "remoteType": "onsite",
+      "salaryMin": 147292,
+      "salaryMax": 199278,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:06:46.301Z",
+      "postedAt": "2026-07-13T08:06:47.486Z",
+      "firstIndexedAt": "2026-07-14T08:07:12.740Z",
+      "url": "https://www.dreamworkhq.com/job/8570f6d1-2e4e-4110-8c78-a9e65fd3263a?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "58a66aa4-8a3a-43cb-a0a7-2d250dc4e0c6",
+      "title": "Software Engineer - TS/SCI with Polygraph",
+      "company": "Gdit",
+      "companyDomain": "gdit.com",
+      "location": "USA VA Chantilly",
+      "remoteType": "onsite",
+      "salaryMin": 185057,
+      "salaryMax": 250371,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T08:06:46.588Z",
       "firstIndexedAt": "2026-07-14T08:07:10.930Z",
-      "url": "https://www.dreamworkhq.com/job/5fba146c-29c6-450b-8036-6f4c960e96a2?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/58a66aa4-8a3a-43cb-a0a7-2d250dc4e0c6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "4549562c-e0b6-418a-8977-4c83de2bb5ce",
@@ -1979,18 +1979,18 @@
       "url": "https://www.dreamworkhq.com/job/4549562c-e0b6-418a-8977-4c83de2bb5ce?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "58a66aa4-8a3a-43cb-a0a7-2d250dc4e0c6",
-      "title": "Software Engineer - TS/SCI with Polygraph",
+      "id": "5fba146c-29c6-450b-8036-6f4c960e96a2",
+      "title": "Cloud Engineer, Sr.",
       "company": "Gdit",
       "companyDomain": "gdit.com",
-      "location": "USA VA Chantilly",
-      "remoteType": "onsite",
-      "salaryMin": 185057,
-      "salaryMax": 250371,
+      "location": "USA VA Springfield",
+      "remoteType": "hybrid",
+      "salaryMin": 162150,
+      "salaryMax": 164382,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T08:06:46.588Z",
+      "postedAt": "2026-07-13T08:06:46.301Z",
       "firstIndexedAt": "2026-07-14T08:07:10.930Z",
-      "url": "https://www.dreamworkhq.com/job/58a66aa4-8a3a-43cb-a0a7-2d250dc4e0c6?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/5fba146c-29c6-450b-8036-6f4c960e96a2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "b5857973-6dc2-4bcf-87af-df5fb2c92f39",
@@ -2161,20 +2161,6 @@
       "url": "https://www.dreamworkhq.com/job/7570fa97-ed77-437c-a40a-3eaf24315ae6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "7a43683f-0955-438a-911c-5101075a0f16",
-      "title": "Software Developer 4",
-      "company": "Oracle",
-      "companyDomain": "oracle.com",
-      "location": "Nashville, TN, United States",
-      "remoteType": "onsite",
-      "salaryMin": 114600,
-      "salaryMax": 234600,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T13:58:29.000Z",
-      "firstIndexedAt": "2026-07-14T07:54:48.967Z",
-      "url": "https://www.dreamworkhq.com/job/7a43683f-0955-438a-911c-5101075a0f16?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "e7133e27-a064-4e75-84d7-80213bf15d53",
       "title": "Data Systems Software Engineering Architect",
       "company": "Oracle",
@@ -2189,18 +2175,18 @@
       "url": "https://www.dreamworkhq.com/job/e7133e27-a064-4e75-84d7-80213bf15d53?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "17919b0c-dbc3-407a-88cf-44865b4273ce",
-      "title": "Sr. Applied AI Engineer",
-      "company": "Octanner",
-      "companyDomain": "octanner.com",
-      "location": "USA - Utah-Salt Lake City-Headquarters",
-      "remoteType": "hybrid",
-      "salaryMin": 145000,
-      "salaryMax": 195000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-13T07:53:39.372Z",
-      "firstIndexedAt": "2026-07-14T07:53:39.528Z",
-      "url": "https://www.dreamworkhq.com/job/17919b0c-dbc3-407a-88cf-44865b4273ce?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "id": "7a43683f-0955-438a-911c-5101075a0f16",
+      "title": "Software Developer 4",
+      "company": "Oracle",
+      "companyDomain": "oracle.com",
+      "location": "Nashville, TN, United States",
+      "remoteType": "onsite",
+      "salaryMin": 114600,
+      "salaryMax": 234600,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T13:58:29.000Z",
+      "firstIndexedAt": "2026-07-14T07:54:48.967Z",
+      "url": "https://www.dreamworkhq.com/job/7a43683f-0955-438a-911c-5101075a0f16?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "623ba1c7-69c6-40ec-bb96-e5356eca88ff",
@@ -2215,6 +2201,20 @@
       "postedAt": "2026-07-13T07:53:39.326Z",
       "firstIndexedAt": "2026-07-14T07:53:39.528Z",
       "url": "https://www.dreamworkhq.com/job/623ba1c7-69c6-40ec-bb96-e5356eca88ff?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "17919b0c-dbc3-407a-88cf-44865b4273ce",
+      "title": "Sr. Applied AI Engineer",
+      "company": "Octanner",
+      "companyDomain": "octanner.com",
+      "location": "USA - Utah-Salt Lake City-Headquarters",
+      "remoteType": "hybrid",
+      "salaryMin": 145000,
+      "salaryMax": 195000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-13T07:53:39.372Z",
+      "firstIndexedAt": "2026-07-14T07:53:39.528Z",
+      "url": "https://www.dreamworkhq.com/job/17919b0c-dbc3-407a-88cf-44865b4273ce?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "2832f8b2-5457-484e-9a46-2eb3fd81f361",
@@ -2385,18 +2385,32 @@
       "url": "https://www.dreamworkhq.com/job/1635ef69-2e9b-4988-a103-90922d3ed7a9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "4d2a9363-a52d-4b99-9055-573e71bfbabf",
-      "title": "AI Software Engineer, Apple Cloud AI Platform",
+      "id": "07f2d62d-3c42-473d-96c1-98e775fdca5d",
+      "title": "Wi-Fi Firmware Development Engineer, Wireless Technologies & Ecosystems",
       "company": "Apple",
       "companyDomain": "apple.com",
       "location": "Cupertino",
       "remoteType": "onsite",
       "salaryMin": 129300,
       "salaryMax": 225300,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-13T18:20:01.169Z",
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-07-13T18:18:14.145Z",
       "firstIndexedAt": "2026-07-14T07:38:14.474Z",
-      "url": "https://www.dreamworkhq.com/job/4d2a9363-a52d-4b99-9055-573e71bfbabf?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/07f2d62d-3c42-473d-96c1-98e775fdca5d?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "4592655c-8d54-4850-9300-fbde0c176c16",
+      "title": "Software Development Engineer - Applications",
+      "company": "Apple",
+      "companyDomain": "apple.com",
+      "location": "Austin",
+      "remoteType": "onsite",
+      "salaryMin": 205000,
+      "salaryMax": 260000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T19:09:51.635Z",
+      "firstIndexedAt": "2026-07-14T07:38:14.474Z",
+      "url": "https://www.dreamworkhq.com/job/4592655c-8d54-4850-9300-fbde0c176c16?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "73ec1190-8707-4796-a3f2-774ab610808e",
@@ -2413,18 +2427,18 @@
       "url": "https://www.dreamworkhq.com/job/73ec1190-8707-4796-a3f2-774ab610808e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "07f2d62d-3c42-473d-96c1-98e775fdca5d",
-      "title": "Wi-Fi Firmware Development Engineer, Wireless Technologies & Ecosystems",
+      "id": "f7426c58-d531-4e8e-bab9-8739a34d7cbf",
+      "title": "UI and iOS Platform Software Engineer, Safari",
       "company": "Apple",
       "companyDomain": "apple.com",
       "location": "Cupertino",
       "remoteType": "onsite",
-      "salaryMin": 129300,
-      "salaryMax": 225300,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-07-13T18:18:14.145Z",
+      "salaryMin": 150400,
+      "salaryMax": 277600,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T18:42:48.887Z",
       "firstIndexedAt": "2026-07-14T07:38:14.474Z",
-      "url": "https://www.dreamworkhq.com/job/07f2d62d-3c42-473d-96c1-98e775fdca5d?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/f7426c58-d531-4e8e-bab9-8739a34d7cbf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "09e19249-b6dd-49bf-92e5-5bc7171bcd0b",
@@ -2441,6 +2455,20 @@
       "url": "https://www.dreamworkhq.com/job/09e19249-b6dd-49bf-92e5-5bc7171bcd0b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "4d2a9363-a52d-4b99-9055-573e71bfbabf",
+      "title": "AI Software Engineer, Apple Cloud AI Platform",
+      "company": "Apple",
+      "companyDomain": "apple.com",
+      "location": "Cupertino",
+      "remoteType": "onsite",
+      "salaryMin": 129300,
+      "salaryMax": 225300,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-13T18:20:01.169Z",
+      "firstIndexedAt": "2026-07-14T07:38:14.474Z",
+      "url": "https://www.dreamworkhq.com/job/4d2a9363-a52d-4b99-9055-573e71bfbabf?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "dc069416-321e-4d25-87b9-119db5f16d83",
       "title": "Connectivity Systems Engineer",
       "company": "Apple",
@@ -2453,6 +2481,20 @@
       "postedAt": "2026-07-13T23:45:31.433Z",
       "firstIndexedAt": "2026-07-14T07:38:10.913Z",
       "url": "https://www.dreamworkhq.com/job/dc069416-321e-4d25-87b9-119db5f16d83?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "42019fc6-470e-4971-b35f-47889698b24a",
+      "title": "Siri AI Software Engineer, Siri Core ",
+      "company": "Apple",
+      "companyDomain": "apple.com",
+      "location": "Cupertino",
+      "remoteType": "onsite",
+      "salaryMin": 184700,
+      "salaryMax": 324800,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-14T05:40:27.607Z",
+      "firstIndexedAt": "2026-07-14T07:38:10.913Z",
+      "url": "https://www.dreamworkhq.com/job/42019fc6-470e-4971-b35f-47889698b24a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "9f19619d-0e2b-4c3f-a735-131121d6a332",
@@ -2483,20 +2525,6 @@
       "url": "https://www.dreamworkhq.com/job/9b278282-98dd-4650-8d83-8a21470df2cb?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "42019fc6-470e-4971-b35f-47889698b24a",
-      "title": "Siri AI Software Engineer, Siri Core ",
-      "company": "Apple",
-      "companyDomain": "apple.com",
-      "location": "Cupertino",
-      "remoteType": "onsite",
-      "salaryMin": 184700,
-      "salaryMax": 324800,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-14T05:40:27.607Z",
-      "firstIndexedAt": "2026-07-14T07:38:10.913Z",
-      "url": "https://www.dreamworkhq.com/job/42019fc6-470e-4971-b35f-47889698b24a?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "be558caf-66d1-431b-9086-5c425f16d5ca",
       "title": "Mainframe Tape Storage Infrastructure Engineer ll",
       "company": "Lateral US",
@@ -2511,18 +2539,18 @@
       "url": "https://www.dreamworkhq.com/job/be558caf-66d1-431b-9086-5c425f16d5ca?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "93f1815a-ff4e-4b75-aec9-b21d34650af5",
-      "title": "Data Engineer III",
+      "id": "67eada66-1d68-4d42-8574-8a3c726989ed",
+      "title": "Software Engineer III – Generative AI Platform Engineering",
       "company": "Lateral US",
       "companyDomain": "lateral.io",
-      "location": "Jersey City",
+      "location": "Addison",
       "remoteType": "onsite",
-      "salaryMin": 104000,
-      "salaryMax": 157700,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T07:37:25.538Z",
+      "salaryMin": 170000,
+      "salaryMax": 210000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-13T07:37:25.515Z",
       "firstIndexedAt": "2026-07-14T07:37:28.446Z",
-      "url": "https://www.dreamworkhq.com/job/93f1815a-ff4e-4b75-aec9-b21d34650af5?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/67eada66-1d68-4d42-8574-8a3c726989ed?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "baa563a4-5d4e-4099-9ae9-3e49cf25c538",
@@ -2539,18 +2567,18 @@
       "url": "https://www.dreamworkhq.com/job/baa563a4-5d4e-4099-9ae9-3e49cf25c538?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "67eada66-1d68-4d42-8574-8a3c726989ed",
-      "title": "Software Engineer III – Generative AI Platform Engineering",
+      "id": "93f1815a-ff4e-4b75-aec9-b21d34650af5",
+      "title": "Data Engineer III",
       "company": "Lateral US",
       "companyDomain": "lateral.io",
-      "location": "Addison",
+      "location": "Jersey City",
       "remoteType": "onsite",
-      "salaryMin": 170000,
-      "salaryMax": 210000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-13T07:37:25.515Z",
+      "salaryMin": 104000,
+      "salaryMax": 157700,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T07:37:25.538Z",
       "firstIndexedAt": "2026-07-14T07:37:28.446Z",
-      "url": "https://www.dreamworkhq.com/job/67eada66-1d68-4d42-8574-8a3c726989ed?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/93f1815a-ff4e-4b75-aec9-b21d34650af5?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "74e3dd23-490b-410e-8263-7b412f762540",
@@ -2847,20 +2875,6 @@
       "url": "https://www.dreamworkhq.com/job/b7ca242a-bd6a-45f8-a181-b3cd2f09741e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "f71ba3da-7984-40d6-8247-bd080e8e9f44",
-      "title": "Information Systems Security Engineer",
-      "company": "Booz Allen Hamilton",
-      "companyDomain": "boozallen.com",
-      "location": "Warner Robins, GA",
-      "remoteType": "hybrid",
-      "salaryMin": 99000,
-      "salaryMax": 225000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-14T06:29:23.928Z",
-      "firstIndexedAt": "2026-07-14T06:22:05.778Z",
-      "url": "https://www.dreamworkhq.com/job/f71ba3da-7984-40d6-8247-bd080e8e9f44?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "cf06a847-52d8-4a86-8f51-73dd539a8645",
       "title": "Cloud Security Engineer",
       "company": "Booz Allen Hamilton",
@@ -2873,6 +2887,20 @@
       "postedAt": "2026-07-14T06:29:23.791Z",
       "firstIndexedAt": "2026-07-14T06:22:05.778Z",
       "url": "https://www.dreamworkhq.com/job/cf06a847-52d8-4a86-8f51-73dd539a8645?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "f71ba3da-7984-40d6-8247-bd080e8e9f44",
+      "title": "Information Systems Security Engineer",
+      "company": "Booz Allen Hamilton",
+      "companyDomain": "boozallen.com",
+      "location": "Warner Robins, GA",
+      "remoteType": "hybrid",
+      "salaryMin": 99000,
+      "salaryMax": 225000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-14T06:29:23.928Z",
+      "firstIndexedAt": "2026-07-14T06:22:05.778Z",
+      "url": "https://www.dreamworkhq.com/job/f71ba3da-7984-40d6-8247-bd080e8e9f44?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "50113bb0-e791-4039-a7e0-922c4e41b6d2",
@@ -2931,7 +2959,7 @@
       "url": "https://www.dreamworkhq.com/job/5a3bc982-57a8-4aca-aa48-029ffddd4129?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "0f190dea-2290-41a8-8a17-8fa616637028",
+      "id": "3f785c49-0786-4086-a26d-9ace94d3655d",
       "title": "Data Analyst",
       "company": "Clarityinnovates",
       "companyDomain": "clarityinnovates.com",
@@ -2940,9 +2968,9 @@
       "salaryMin": 75000,
       "salaryMax": 115000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T15:51:57.000Z",
+      "postedAt": "2026-07-13T13:12:09.000Z",
       "firstIndexedAt": "2026-07-14T06:17:06.619Z",
-      "url": "https://www.dreamworkhq.com/job/0f190dea-2290-41a8-8a17-8fa616637028?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/3f785c49-0786-4086-a26d-9ace94d3655d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "b7802704-54bb-4301-9350-d7733effbd83",
@@ -3701,20 +3729,6 @@
       "url": "https://www.dreamworkhq.com/job/1557c3bf-3cc0-45a9-a54d-c2a232a8e8b3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "3262059d-a76a-469a-9cdc-a3aac769f73c",
-      "title": "Data Analyst, Provider Configuration",
-      "company": "Molina",
-      "companyDomain": "careers.molinahealthcare.com",
-      "location": "United States",
-      "remoteType": "remote",
-      "salaryMin": 49430,
-      "salaryMax": 107099,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-05-07T18:05:21.000Z",
-      "firstIndexedAt": "2026-07-12T14:38:45.237Z",
-      "url": "https://www.dreamworkhq.com/job/3262059d-a76a-469a-9cdc-a3aac769f73c?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "c426fae6-b990-4b5c-a85b-02868002cfe8",
       "title": "Architect, Information Security (network security, cloud security)",
       "company": "Molina",
@@ -3727,20 +3741,6 @@
       "postedAt": "2026-07-02T20:06:28.000Z",
       "firstIndexedAt": "2026-07-12T14:38:45.237Z",
       "url": "https://www.dreamworkhq.com/job/c426fae6-b990-4b5c-a85b-02868002cfe8?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "e36da8df-b0a1-4e5d-81cf-e572f5b5227c",
-      "title": "Security Analyst – Identity and Access Management",
-      "company": "Emcorgroup",
-      "companyDomain": "emcorgroup.com",
-      "location": "AZ-Phoenix\nUS-NV-Las Vegas, US",
-      "remoteType": "hybrid",
-      "salaryMin": 102000,
-      "salaryMax": 112000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-25T04:00:00.000Z",
-      "firstIndexedAt": "2026-07-12T10:33:27.322Z",
-      "url": "https://www.dreamworkhq.com/job/e36da8df-b0a1-4e5d-81cf-e572f5b5227c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "64a621c0-f6be-4d9c-8b5a-b745b8a9a0de",
@@ -3757,18 +3757,18 @@
       "url": "https://www.dreamworkhq.com/job/64a621c0-f6be-4d9c-8b5a-b745b8a9a0de?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "4ea2a76c-6d5f-4dea-b8ac-6b4644b58ecd",
-      "title": "Data Scientist, AI for Biomedical Imaging",
-      "company": "Novartis",
-      "companyDomain": "novartis.com",
-      "location": "Cambridge (USA)",
-      "remoteType": "onsite",
-      "salaryMin": 126000,
-      "salaryMax": 257400,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-10T06:09:33.658Z",
-      "firstIndexedAt": "2026-07-12T06:35:15.381Z",
-      "url": "https://www.dreamworkhq.com/job/4ea2a76c-6d5f-4dea-b8ac-6b4644b58ecd?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "id": "e36da8df-b0a1-4e5d-81cf-e572f5b5227c",
+      "title": "Security Analyst – Identity and Access Management",
+      "company": "Emcorgroup",
+      "companyDomain": "emcorgroup.com",
+      "location": "AZ-Phoenix\nUS-NV-Las Vegas, US",
+      "remoteType": "hybrid",
+      "salaryMin": 102000,
+      "salaryMax": 112000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-25T04:00:00.000Z",
+      "firstIndexedAt": "2026-07-12T10:33:27.322Z",
+      "url": "https://www.dreamworkhq.com/job/e36da8df-b0a1-4e5d-81cf-e572f5b5227c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "285bd3c5-a97e-4d86-b4fb-3e340b9d188a",
@@ -3783,6 +3783,20 @@
       "postedAt": "2026-07-09T06:09:33.929Z",
       "firstIndexedAt": "2026-07-12T06:35:15.381Z",
       "url": "https://www.dreamworkhq.com/job/285bd3c5-a97e-4d86-b4fb-3e340b9d188a?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "4ea2a76c-6d5f-4dea-b8ac-6b4644b58ecd",
+      "title": "Data Scientist, AI for Biomedical Imaging",
+      "company": "Novartis",
+      "companyDomain": "novartis.com",
+      "location": "Cambridge (USA)",
+      "remoteType": "onsite",
+      "salaryMin": 126000,
+      "salaryMax": 257400,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-10T06:09:33.658Z",
+      "firstIndexedAt": "2026-07-12T06:35:15.381Z",
+      "url": "https://www.dreamworkhq.com/job/4ea2a76c-6d5f-4dea-b8ac-6b4644b58ecd?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "42b7e1fd-660d-4990-b73a-16339461dfbf",
@@ -4107,18 +4121,18 @@
       "url": "https://www.dreamworkhq.com/job/e90d86fc-96ce-4912-b261-4eae6c30d2c9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "6432a7c1-258a-4eff-b96f-02943b1a666f",
+      "id": "0da45e07-be4e-43ec-a3a3-6a9a21e83795",
       "title": "Data Scientist",
       "company": "Cssmerge",
       "companyDomain": "cssmerge.app",
-      "location": "Warrendale, PA",
+      "location": "Los Angeles, CA",
       "remoteType": "onsite",
-      "salaryMin": 174000,
-      "salaryMax": 222000,
-      "aiRoleKind": "ai_explicit",
+      "salaryMin": 184000,
+      "salaryMax": 234000,
+      "aiRoleKind": "ai_first",
       "postedAt": "2026-07-02T16:48:59.000Z",
       "firstIndexedAt": "2026-07-11T09:43:40.143Z",
-      "url": "https://www.dreamworkhq.com/job/6432a7c1-258a-4eff-b96f-02943b1a666f?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/0da45e07-be4e-43ec-a3a3-6a9a21e83795?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "0b7b8cc9-7b1d-4eed-be66-c4f4acd57726",
@@ -4527,20 +4541,6 @@
       "url": "https://www.dreamworkhq.com/job/a39c59fa-3b1b-4d2b-9de9-ef1d5aba3a79?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "e96bc45b-b00b-4a2a-8e64-1343ed5a8daf",
-      "title": "Cloud Cybersecurity Engineer",
-      "company": "Booz Allen Hamilton",
-      "companyDomain": "boozallen.com",
-      "location": "Rome, NY",
-      "remoteType": "hybrid",
-      "salaryMin": 61900,
-      "salaryMax": 141000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T06:29:32.416Z",
-      "firstIndexedAt": "2026-07-11T06:02:48.515Z",
-      "url": "https://www.dreamworkhq.com/job/e96bc45b-b00b-4a2a-8e64-1343ed5a8daf?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "fe727011-f4ed-4082-a44d-c3dbd13bc85f",
       "title": "Cybersecurity Analyst",
       "company": "Booz Allen Hamilton",
@@ -4553,6 +4553,20 @@
       "postedAt": "2026-07-09T06:29:32.957Z",
       "firstIndexedAt": "2026-07-11T06:02:48.515Z",
       "url": "https://www.dreamworkhq.com/job/fe727011-f4ed-4082-a44d-c3dbd13bc85f?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "e96bc45b-b00b-4a2a-8e64-1343ed5a8daf",
+      "title": "Cloud Cybersecurity Engineer",
+      "company": "Booz Allen Hamilton",
+      "companyDomain": "boozallen.com",
+      "location": "Rome, NY",
+      "remoteType": "hybrid",
+      "salaryMin": 61900,
+      "salaryMax": 141000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-09T06:29:32.416Z",
+      "firstIndexedAt": "2026-07-11T06:02:48.515Z",
+      "url": "https://www.dreamworkhq.com/job/e96bc45b-b00b-4a2a-8e64-1343ed5a8daf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "6bd5fc24-eab8-4fbf-848c-fd919fcbcf36",
@@ -5045,32 +5059,18 @@
       "url": "https://www.dreamworkhq.com/job/ce7cf6b2-f4ab-4859-abfe-0ec95d72a87e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "96eff2b4-04d2-4511-9491-e1941748477d",
-      "title": "Sr. Security Software Engineer (Starlink) ",
+      "id": "02dc2335-908b-4c7f-9a8f-e3739d485198",
+      "title": "Sr. Security Software Engineer (Starlink)",
       "company": "SpaceX",
       "companyDomain": "spacex.com",
-      "location": "Bastrop, TX",
+      "location": "Redmond, WA",
       "remoteType": "onsite",
-      "salaryMin": 155000,
-      "salaryMax": 205000,
+      "salaryMin": 170000,
+      "salaryMax": 235000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T18:30:24.000Z",
+      "postedAt": "2026-07-09T18:32:03.000Z",
       "firstIndexedAt": "2026-07-10T06:13:10.852Z",
-      "url": "https://www.dreamworkhq.com/job/96eff2b4-04d2-4511-9491-e1941748477d?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "8b582a95-6af2-41fa-bbca-bccae35ce203",
-      "title": "Sr. Product Security Engineer (Starlink) ",
-      "company": "SpaceX",
-      "companyDomain": "spacex.com",
-      "location": "Bastrop, TX",
-      "remoteType": "onsite",
-      "salaryMin": 160000,
-      "salaryMax": 210000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T18:30:23.000Z",
-      "firstIndexedAt": "2026-07-10T06:13:10.852Z",
-      "url": "https://www.dreamworkhq.com/job/8b582a95-6af2-41fa-bbca-bccae35ce203?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/02dc2335-908b-4c7f-9a8f-e3739d485198?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "62f8ca34-8506-4415-b705-2bb7c52050da",
@@ -5087,32 +5087,32 @@
       "url": "https://www.dreamworkhq.com/job/62f8ca34-8506-4415-b705-2bb7c52050da?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "02dc2335-908b-4c7f-9a8f-e3739d485198",
-      "title": "Sr. Security Software Engineer (Starlink)",
+      "id": "8b582a95-6af2-41fa-bbca-bccae35ce203",
+      "title": "Sr. Product Security Engineer (Starlink) ",
       "company": "SpaceX",
       "companyDomain": "spacex.com",
-      "location": "Redmond, WA",
+      "location": "Bastrop, TX",
       "remoteType": "onsite",
-      "salaryMin": 170000,
-      "salaryMax": 235000,
+      "salaryMin": 160000,
+      "salaryMax": 210000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T18:32:03.000Z",
+      "postedAt": "2026-07-09T18:30:23.000Z",
       "firstIndexedAt": "2026-07-10T06:13:10.852Z",
-      "url": "https://www.dreamworkhq.com/job/02dc2335-908b-4c7f-9a8f-e3739d485198?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/8b582a95-6af2-41fa-bbca-bccae35ce203?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "80146d1d-2363-48d3-9f1f-ee25076b3f19",
-      "title": "Sr. Network Security Engineer",
+      "id": "96eff2b4-04d2-4511-9491-e1941748477d",
+      "title": "Sr. Security Software Engineer (Starlink) ",
       "company": "SpaceX",
       "companyDomain": "spacex.com",
-      "location": "Redmond, WA",
-      "remoteType": "hybrid",
-      "salaryMin": 165000,
-      "salaryMax": 235000,
+      "location": "Bastrop, TX",
+      "remoteType": "onsite",
+      "salaryMin": 155000,
+      "salaryMax": 205000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-10T02:32:09.000Z",
-      "firstIndexedAt": "2026-07-10T06:13:10.165Z",
-      "url": "https://www.dreamworkhq.com/job/80146d1d-2363-48d3-9f1f-ee25076b3f19?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "postedAt": "2026-07-09T18:30:24.000Z",
+      "firstIndexedAt": "2026-07-10T06:13:10.852Z",
+      "url": "https://www.dreamworkhq.com/job/96eff2b4-04d2-4511-9491-e1941748477d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "ee4b7e24-882b-4112-9c20-bf63aed68982",
@@ -5143,6 +5143,20 @@
       "url": "https://www.dreamworkhq.com/job/d6a9f43b-c517-417e-ad02-5e85cfe8fe79?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "80146d1d-2363-48d3-9f1f-ee25076b3f19",
+      "title": "Sr. Network Security Engineer",
+      "company": "SpaceX",
+      "companyDomain": "spacex.com",
+      "location": "Redmond, WA",
+      "remoteType": "hybrid",
+      "salaryMin": 165000,
+      "salaryMax": 235000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-10T02:32:09.000Z",
+      "firstIndexedAt": "2026-07-10T06:13:10.165Z",
+      "url": "https://www.dreamworkhq.com/job/80146d1d-2363-48d3-9f1f-ee25076b3f19?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "6a5e8911-94b8-4bb6-b206-2ac99d91b85c",
       "title": "Sr. Network Security Engineer",
       "company": "SpaceX",
@@ -5157,20 +5171,6 @@
       "url": "https://www.dreamworkhq.com/job/6a5e8911-94b8-4bb6-b206-2ac99d91b85c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "25fcaf14-3dc3-4807-b3c3-2ccffa03a0c6",
-      "title": "Sr. Embedded Security Engineer (Starlink)",
-      "company": "SpaceX",
-      "companyDomain": "spacex.com",
-      "location": "Redmond, WA",
-      "remoteType": "onsite",
-      "salaryMin": 170000,
-      "salaryMax": 235000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-09T18:32:01.000Z",
-      "firstIndexedAt": "2026-07-10T06:13:08.690Z",
-      "url": "https://www.dreamworkhq.com/job/25fcaf14-3dc3-4807-b3c3-2ccffa03a0c6?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "4126b6e8-c904-419c-a838-08b0b470831c",
       "title": "Sr. Embedded Security Engineer (Starlink) ",
       "company": "SpaceX",
@@ -5183,6 +5183,20 @@
       "postedAt": "2026-07-09T18:30:22.000Z",
       "firstIndexedAt": "2026-07-10T06:13:08.690Z",
       "url": "https://www.dreamworkhq.com/job/4126b6e8-c904-419c-a838-08b0b470831c?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "25fcaf14-3dc3-4807-b3c3-2ccffa03a0c6",
+      "title": "Sr. Embedded Security Engineer (Starlink)",
+      "company": "SpaceX",
+      "companyDomain": "spacex.com",
+      "location": "Redmond, WA",
+      "remoteType": "onsite",
+      "salaryMin": 170000,
+      "salaryMax": 235000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-09T18:32:01.000Z",
+      "firstIndexedAt": "2026-07-10T06:13:08.690Z",
+      "url": "https://www.dreamworkhq.com/job/25fcaf14-3dc3-4807-b3c3-2ccffa03a0c6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "f8e3d753-f1d2-4868-adb8-68ad6e693896",
@@ -5899,20 +5913,6 @@
       "url": "https://www.dreamworkhq.com/job/572807f2-2b8c-4b74-a07a-ec8724d26ee6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "d4426f4c-d2f1-4880-84ae-3d640109bfe7",
-      "title": "Platform Security Engineer",
-      "company": "Future Secure AI",
-      "companyDomain": "futuresecureai.com",
-      "location": "Austin, TX",
-      "remoteType": "onsite",
-      "salaryMin": 150000,
-      "salaryMax": 215000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-02T13:31:07.000Z",
-      "firstIndexedAt": "2026-07-10T05:06:47.036Z",
-      "url": "https://www.dreamworkhq.com/job/d4426f4c-d2f1-4880-84ae-3d640109bfe7?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "162ef645-1bae-42bc-81a4-44f5ddcfadf2",
       "title": "Platform DevSecOps Engineer",
       "company": "Future Secure AI",
@@ -5925,6 +5925,20 @@
       "postedAt": "2026-07-07T15:42:47.000Z",
       "firstIndexedAt": "2026-07-10T05:06:47.036Z",
       "url": "https://www.dreamworkhq.com/job/162ef645-1bae-42bc-81a4-44f5ddcfadf2?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "d4426f4c-d2f1-4880-84ae-3d640109bfe7",
+      "title": "Platform Security Engineer",
+      "company": "Future Secure AI",
+      "companyDomain": "futuresecureai.com",
+      "location": "Austin, TX",
+      "remoteType": "onsite",
+      "salaryMin": 150000,
+      "salaryMax": 215000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-02T13:31:07.000Z",
+      "firstIndexedAt": "2026-07-10T05:06:47.036Z",
+      "url": "https://www.dreamworkhq.com/job/d4426f4c-d2f1-4880-84ae-3d640109bfe7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "46535ed3-139a-4c01-8c08-4e2f7a2fce88",
@@ -5997,20 +6011,6 @@
       "url": "https://www.dreamworkhq.com/job/a3b3f140-fe3c-4b2f-9631-75ac9eccfa7d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "fb3a4c73-0f48-472b-84ec-ab48201abf3d",
-      "title": "Sr Data Scientist",
-      "company": "Rochester",
-      "companyDomain": "rochesterschools.org",
-      "location": "135 Corporate Woods",
-      "remoteType": "hybrid",
-      "salaryMin": 86482,
-      "salaryMax": 129723,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-11T07:10:10.593Z",
-      "firstIndexedAt": "2026-07-10T00:37:47.275Z",
-      "url": "https://www.dreamworkhq.com/job/fb3a4c73-0f48-472b-84ec-ab48201abf3d?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "ecf00f15-a9e0-4744-999f-68aed22c43a0",
       "title": "Data Scientist",
       "company": "Rochester",
@@ -6039,6 +6039,20 @@
       "url": "https://www.dreamworkhq.com/job/48b8bc07-e273-4ac9-9c06-7212c5b5ecbf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "fb3a4c73-0f48-472b-84ec-ab48201abf3d",
+      "title": "Sr Data Scientist",
+      "company": "Rochester",
+      "companyDomain": "rochesterschools.org",
+      "location": "135 Corporate Woods",
+      "remoteType": "hybrid",
+      "salaryMin": 86482,
+      "salaryMax": 129723,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-11T07:10:10.593Z",
+      "firstIndexedAt": "2026-07-10T00:37:47.275Z",
+      "url": "https://www.dreamworkhq.com/job/fb3a4c73-0f48-472b-84ec-ab48201abf3d?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "756647bf-f7b8-4f39-a6d8-67bc336a5091",
       "title": "Azure Data Engineer/Analyst",
       "company": "Medline",
@@ -6053,20 +6067,6 @@
       "url": "https://www.dreamworkhq.com/job/756647bf-f7b8-4f39-a6d8-67bc336a5091?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "b574c09d-e90b-4dcb-a71c-6ddc735106b4",
-      "title": "Data Engineer",
-      "company": "Parsons",
-      "companyDomain": "parsons.com",
-      "location": "US - MD, Aberdeen",
-      "remoteType": "onsite",
-      "salaryMin": 112200,
-      "salaryMax": 196400,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-07T06:28:48.218Z",
-      "firstIndexedAt": "2026-07-10T00:33:50.785Z",
-      "url": "https://www.dreamworkhq.com/job/b574c09d-e90b-4dcb-a71c-6ddc735106b4?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "cf7fa03c-15d0-4715-93ce-93c5d14332e5",
       "title": "Data Analyst",
       "company": "Parsons",
@@ -6079,6 +6079,20 @@
       "postedAt": "2026-07-08T06:28:47.684Z",
       "firstIndexedAt": "2026-07-10T00:33:50.785Z",
       "url": "https://www.dreamworkhq.com/job/cf7fa03c-15d0-4715-93ce-93c5d14332e5?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "b574c09d-e90b-4dcb-a71c-6ddc735106b4",
+      "title": "Data Engineer",
+      "company": "Parsons",
+      "companyDomain": "parsons.com",
+      "location": "US - MD, Aberdeen",
+      "remoteType": "onsite",
+      "salaryMin": 112200,
+      "salaryMax": 196400,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-07T06:28:48.218Z",
+      "firstIndexedAt": "2026-07-10T00:33:50.785Z",
+      "url": "https://www.dreamworkhq.com/job/b574c09d-e90b-4dcb-a71c-6ddc735106b4?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "65452907-985d-4517-af86-7be5081084e7",
@@ -6263,18 +6277,18 @@
       "url": "https://www.dreamworkhq.com/job/c199ed1a-609e-426d-a2ad-5bb71c549d35?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "e32d6adf-2cdc-48e4-9bb8-3361af7950d3",
-      "title": "Health AI ML Data Scientist",
+      "id": "1d6006fc-69bd-4a47-a44e-5a280afe761c",
+      "title": "Epidemiologist Data Scientist",
       "company": "Guidehouse",
       "companyDomain": "guidehouse.com",
       "location": "US - Remote (Any location)",
       "remoteType": "remote",
       "salaryMin": 85000,
       "salaryMax": 141000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-07T07:20:24.216Z",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-07T07:20:24.239Z",
       "firstIndexedAt": "2026-07-09T06:06:41.372Z",
-      "url": "https://www.dreamworkhq.com/job/e32d6adf-2cdc-48e4-9bb8-3361af7950d3?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/1d6006fc-69bd-4a47-a44e-5a280afe761c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "5dcbb9a3-5404-4e9e-98ff-9e0bab3bccd9",
@@ -6291,18 +6305,18 @@
       "url": "https://www.dreamworkhq.com/job/5dcbb9a3-5404-4e9e-98ff-9e0bab3bccd9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "1d6006fc-69bd-4a47-a44e-5a280afe761c",
-      "title": "Epidemiologist Data Scientist",
+      "id": "e32d6adf-2cdc-48e4-9bb8-3361af7950d3",
+      "title": "Health AI ML Data Scientist",
       "company": "Guidehouse",
       "companyDomain": "guidehouse.com",
       "location": "US - Remote (Any location)",
       "remoteType": "remote",
       "salaryMin": 85000,
       "salaryMax": 141000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-07T07:20:24.239Z",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-07T07:20:24.216Z",
       "firstIndexedAt": "2026-07-09T06:06:41.372Z",
-      "url": "https://www.dreamworkhq.com/job/1d6006fc-69bd-4a47-a44e-5a280afe761c?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/e32d6adf-2cdc-48e4-9bb8-3361af7950d3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "d50dafcf-d0cc-45c0-ad20-00b8dc4cb309",
@@ -6417,20 +6431,6 @@
       "url": "https://www.dreamworkhq.com/job/5466622a-028d-4eb2-bf24-5a173a5b4548?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "dfac638e-b46f-42e7-843b-ca9f4bb8ff10",
-      "title": "Data Scientist",
-      "company": "Twitch",
-      "companyDomain": "twitch.tv",
-      "location": "Seattle, WA",
-      "remoteType": "hybrid",
-      "salaryMin": 136000,
-      "salaryMax": 184000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-09T02:35:28.000Z",
-      "firstIndexedAt": "2026-07-09T06:02:13.169Z",
-      "url": "https://www.dreamworkhq.com/job/dfac638e-b46f-42e7-843b-ca9f4bb8ff10?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "88153771-2aef-48d2-b795-44606def5814",
       "title": "Data Scientist",
       "company": "Twitch",
@@ -6443,6 +6443,20 @@
       "postedAt": "2026-07-09T02:35:27.000Z",
       "firstIndexedAt": "2026-07-09T06:02:13.169Z",
       "url": "https://www.dreamworkhq.com/job/88153771-2aef-48d2-b795-44606def5814?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "dfac638e-b46f-42e7-843b-ca9f4bb8ff10",
+      "title": "Data Scientist",
+      "company": "Twitch",
+      "companyDomain": "twitch.tv",
+      "location": "Seattle, WA",
+      "remoteType": "hybrid",
+      "salaryMin": 136000,
+      "salaryMax": 184000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-09T02:35:28.000Z",
+      "firstIndexedAt": "2026-07-09T06:02:13.169Z",
+      "url": "https://www.dreamworkhq.com/job/dfac638e-b46f-42e7-843b-ca9f4bb8ff10?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "7708b060-2578-4d62-9eb0-ad97a9107e8a",
@@ -6471,6 +6485,20 @@
       "postedAt": "2026-07-08T20:11:16.000Z",
       "firstIndexedAt": "2026-07-09T06:01:05.050Z",
       "url": "https://www.dreamworkhq.com/job/13471275-41ed-4720-9782-27a49fb05711?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "96f76e7d-f85e-4fe5-ae44-0affb785e199",
+      "title": "Data Modeler/Data Analyst",
+      "company": "Procom Services",
+      "companyDomain": "procomservices.com",
+      "location": "Mount Laurel, NJ, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 115000,
+      "salaryMax": 155000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2014-10-24T19:40:55.000Z",
+      "firstIndexedAt": "2026-07-08T20:35:02.585Z",
+      "url": "https://www.dreamworkhq.com/job/96f76e7d-f85e-4fe5-ae44-0affb785e199?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "f695eaa0-bd36-4e3f-9a4d-e2dad77e7a49",
@@ -6655,7 +6683,7 @@
       "url": "https://www.dreamworkhq.com/job/6a8a6d63-4c23-48b3-8df9-ba74df8fcb3a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "c6211dc6-0a20-43a0-acb9-8105491474c7",
+      "id": "cfbe028b-08a3-4500-a2cf-62c1e7dd72d1",
       "title": "Frontend Developer - REACT",
       "company": "Nagarro1",
       "companyDomain": "nagarro.com",
@@ -6664,9 +6692,23 @@
       "salaryMin": null,
       "salaryMax": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T13:00:13.043Z",
+      "postedAt": "2026-07-13T12:56:52.915Z",
       "firstIndexedAt": "2026-07-14T09:00:49.342Z",
-      "url": "https://www.dreamworkhq.com/job/c6211dc6-0a20-43a0-acb9-8105491474c7?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/cfbe028b-08a3-4500-a2cf-62c1e7dd72d1?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "d389bc4b-c1f5-467f-95ba-53d716b7808b",
+      "title": "Frontend Developer - REACT",
+      "company": "Nagarro1",
+      "companyDomain": "nagarro.com",
+      "location": "Remote, , Romania",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T13:17:25.793Z",
+      "firstIndexedAt": "2026-07-14T09:00:49.342Z",
+      "url": "https://www.dreamworkhq.com/job/d389bc4b-c1f5-467f-95ba-53d716b7808b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "c3eacf70-16d7-4a20-958f-0ce4e756155a",
@@ -6681,20 +6723,6 @@
       "postedAt": "2026-07-13T13:10:26.131Z",
       "firstIndexedAt": "2026-07-14T09:00:49.342Z",
       "url": "https://www.dreamworkhq.com/job/c3eacf70-16d7-4a20-958f-0ce4e756155a?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "2dd2110e-470c-4f40-8dfa-64edef51664c",
-      "title": "Frontend Developer - REACT",
-      "company": "Nagarro1",
-      "companyDomain": "nagarro.com",
-      "location": "Remote, , Romania",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T13:03:21.682Z",
-      "firstIndexedAt": "2026-07-14T09:00:49.342Z",
-      "url": "https://www.dreamworkhq.com/job/2dd2110e-470c-4f40-8dfa-64edef51664c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "5f246e56-d457-44ff-9ac1-b5ba9c2d136d",
@@ -6991,20 +7019,6 @@
       "url": "https://www.dreamworkhq.com/job/6ff8c85a-7778-4f27-b221-86c9d0f7d008?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "cf4fbc9e-0135-41c5-987d-070e9c57e267",
-      "title": "iOS Software Engineer - AI Neobank App (Netherlands)",
-      "company": "Bjakcareer",
-      "companyDomain": "a1.app",
-      "location": "Netherlands",
-      "remoteType": "remote",
-      "salaryMin": 59000,
-      "salaryMax": 76000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-14T07:05:05.131Z",
-      "firstIndexedAt": "2026-07-14T08:06:20.784Z",
-      "url": "https://www.dreamworkhq.com/job/cf4fbc9e-0135-41c5-987d-070e9c57e267?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "01da0124-12c8-45ab-8685-392ccefe902f",
       "title": "iOS Software Engineer - AI Neobank App (Portugal)",
       "company": "Bjakcareer",
@@ -7019,18 +7033,18 @@
       "url": "https://www.dreamworkhq.com/job/01da0124-12c8-45ab-8685-392ccefe902f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "c97e42ef-6d0f-451a-b812-8cf107f31eef",
-      "title": "iOS Software Engineer - AI Neobank App (Sweden)",
+      "id": "cf4fbc9e-0135-41c5-987d-070e9c57e267",
+      "title": "iOS Software Engineer - AI Neobank App (Netherlands)",
       "company": "Bjakcareer",
       "companyDomain": "a1.app",
-      "location": "Sweden",
+      "location": "Netherlands",
       "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
+      "salaryMin": 59000,
+      "salaryMax": 76000,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-14T07:21:35.438Z",
-      "firstIndexedAt": "2026-07-14T08:06:19.310Z",
-      "url": "https://www.dreamworkhq.com/job/c97e42ef-6d0f-451a-b812-8cf107f31eef?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "postedAt": "2026-07-14T07:05:05.131Z",
+      "firstIndexedAt": "2026-07-14T08:06:20.784Z",
+      "url": "https://www.dreamworkhq.com/job/cf4fbc9e-0135-41c5-987d-070e9c57e267?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "96582f38-f811-463e-8712-5f7e4dde8289",
@@ -7045,6 +7059,20 @@
       "postedAt": "2026-07-14T08:04:03.053Z",
       "firstIndexedAt": "2026-07-14T08:06:19.310Z",
       "url": "https://www.dreamworkhq.com/job/96582f38-f811-463e-8712-5f7e4dde8289?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "c97e42ef-6d0f-451a-b812-8cf107f31eef",
+      "title": "iOS Software Engineer - AI Neobank App (Sweden)",
+      "company": "Bjakcareer",
+      "companyDomain": "a1.app",
+      "location": "Sweden",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-14T07:21:35.438Z",
+      "firstIndexedAt": "2026-07-14T08:06:19.310Z",
+      "url": "https://www.dreamworkhq.com/job/c97e42ef-6d0f-451a-b812-8cf107f31eef?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "67fc3bcf-f4af-4028-b758-cf5a2bf04ac7",
@@ -7075,20 +7103,6 @@
       "url": "https://www.dreamworkhq.com/job/a8fefc78-1659-4635-8235-aff22c7ef0c1?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "cba72794-8981-40bb-a366-0fe0cb0007f1",
-      "title": "iOS Software Engineer - AI Neobank App (India)",
-      "company": "Bjakcareer",
-      "companyDomain": "a1.app",
-      "location": "India",
-      "remoteType": "remote",
-      "salaryMin": 18000,
-      "salaryMax": 30000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-14T07:03:31.845Z",
-      "firstIndexedAt": "2026-07-14T08:06:16.429Z",
-      "url": "https://www.dreamworkhq.com/job/cba72794-8981-40bb-a366-0fe0cb0007f1?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "defc552a-5576-479e-917d-a647830225c9",
       "title": "iOS Software Engineer - AI Neobank App (Thailand)",
       "company": "Bjakcareer",
@@ -7117,20 +7131,6 @@
       "url": "https://www.dreamworkhq.com/job/1cbdef63-d779-4c94-a443-dbb9e6e6fdd8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "97321966-5c3d-4c63-9485-e56936f6002c",
-      "title": "iOS Software Engineer - AI Neobank App (Korea)",
-      "company": "Bjakcareer",
-      "companyDomain": "a1.app",
-      "location": "Seoul, Korea",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-14T06:58:56.264Z",
-      "firstIndexedAt": "2026-07-14T08:06:15.020Z",
-      "url": "https://www.dreamworkhq.com/job/97321966-5c3d-4c63-9485-e56936f6002c?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "fd95ee6e-5ed9-4e02-bc04-eac61ca6ada1",
       "title": "iOS Software Engineer - AI Neobank App (Singapore)",
       "company": "Bjakcareer",
@@ -7145,6 +7145,20 @@
       "url": "https://www.dreamworkhq.com/job/fd95ee6e-5ed9-4e02-bc04-eac61ca6ada1?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "97321966-5c3d-4c63-9485-e56936f6002c",
+      "title": "iOS Software Engineer - AI Neobank App (Korea)",
+      "company": "Bjakcareer",
+      "companyDomain": "a1.app",
+      "location": "Seoul, Korea",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-14T06:58:56.264Z",
+      "firstIndexedAt": "2026-07-14T08:06:15.020Z",
+      "url": "https://www.dreamworkhq.com/job/97321966-5c3d-4c63-9485-e56936f6002c?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "9a31f11d-2c8f-44b5-8b7f-b476d0dedecf",
       "title": "iOS Software Engineer - AI Neobank App (Vietnam)",
       "company": "Bjakcareer",
@@ -7157,20 +7171,6 @@
       "postedAt": "2026-07-14T07:02:04.631Z",
       "firstIndexedAt": "2026-07-14T08:06:13.539Z",
       "url": "https://www.dreamworkhq.com/job/9a31f11d-2c8f-44b5-8b7f-b476d0dedecf?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "57ab5bff-9455-4ce6-b6d1-ee2c973107a3",
-      "title": "iOS Software Engineer - AI Neobank App (Australia)",
-      "company": "Bjakcareer",
-      "companyDomain": "a1.app",
-      "location": "Sydney, Australia",
-      "remoteType": "remote",
-      "salaryMin": 69000,
-      "salaryMax": 89000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-14T06:27:43.275Z",
-      "firstIndexedAt": "2026-07-14T08:06:13.539Z",
-      "url": "https://www.dreamworkhq.com/job/57ab5bff-9455-4ce6-b6d1-ee2c973107a3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "a11a78eb-3900-4cc6-b94e-e3a5b5c71980",
@@ -7199,6 +7199,20 @@
       "postedAt": "2026-07-14T06:57:46.711Z",
       "firstIndexedAt": "2026-07-14T08:06:13.539Z",
       "url": "https://www.dreamworkhq.com/job/5e3e08f3-a9e2-4efb-928a-cbc610df3a28?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "57ab5bff-9455-4ce6-b6d1-ee2c973107a3",
+      "title": "iOS Software Engineer - AI Neobank App (Australia)",
+      "company": "Bjakcareer",
+      "companyDomain": "a1.app",
+      "location": "Sydney, Australia",
+      "remoteType": "remote",
+      "salaryMin": 69000,
+      "salaryMax": 89000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-14T06:27:43.275Z",
+      "firstIndexedAt": "2026-07-14T08:06:13.539Z",
+      "url": "https://www.dreamworkhq.com/job/57ab5bff-9455-4ce6-b6d1-ee2c973107a3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "e04317fb-0a31-4b18-bec0-7da0dc1a6252",
@@ -7243,6 +7257,20 @@
       "url": "https://www.dreamworkhq.com/job/9200c287-7190-470f-8e9e-dcd0277c2a31?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "039e170b-d8f4-4005-a643-5a2034fd3782",
+      "title": "Python Developer - Remote in Uruguay",
+      "company": "Anyone Ai",
+      "companyDomain": "anyoneai.com",
+      "location": "Uruguay",
+      "remoteType": "remote",
+      "salaryMin": 93600,
+      "salaryMax": 166400,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T22:47:06.026Z",
+      "firstIndexedAt": "2026-07-14T07:57:12.447Z",
+      "url": "https://www.dreamworkhq.com/job/039e170b-d8f4-4005-a643-5a2034fd3782?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "7369d82d-3bba-41e7-9356-1b9ef2d83103",
       "title": "Python Developer - UK (Remote)",
       "company": "Anyone Ai",
@@ -7271,18 +7299,74 @@
       "url": "https://www.dreamworkhq.com/job/126f5ee7-b573-4f51-8274-149ccad06174?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "039e170b-d8f4-4005-a643-5a2034fd3782",
-      "title": "Python Developer - Remote in Uruguay",
+      "id": "12a81389-febe-4dbe-9445-f7339005b7be",
+      "title": "Python Developer (Mexico)",
       "company": "Anyone Ai",
       "companyDomain": "anyoneai.com",
-      "location": "Uruguay",
+      "location": "Mexico - Fully Remote",
       "remoteType": "remote",
       "salaryMin": 93600,
       "salaryMax": 166400,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T22:47:06.026Z",
-      "firstIndexedAt": "2026-07-14T07:57:12.447Z",
-      "url": "https://www.dreamworkhq.com/job/039e170b-d8f4-4005-a643-5a2034fd3782?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "postedAt": "2026-07-13T22:43:42.192Z",
+      "firstIndexedAt": "2026-07-14T07:57:11.621Z",
+      "url": "https://www.dreamworkhq.com/job/12a81389-febe-4dbe-9445-f7339005b7be?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "24492e9f-392e-4bec-97ce-94e605319e7a",
+      "title": "Python Developer - Remote in Brazil",
+      "company": "Anyone Ai",
+      "companyDomain": "anyoneai.com",
+      "location": "Brazil",
+      "remoteType": "remote",
+      "salaryMin": 93600,
+      "salaryMax": 166400,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T17:49:17.421Z",
+      "firstIndexedAt": "2026-07-14T07:57:11.621Z",
+      "url": "https://www.dreamworkhq.com/job/24492e9f-392e-4bec-97ce-94e605319e7a?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "30cb1776-4d4b-426d-9e07-88a8e9b9de69",
+      "title": "Python Developer - Remote in Germany",
+      "company": "Anyone Ai",
+      "companyDomain": "anyoneai.com",
+      "location": "Germany",
+      "remoteType": "remote",
+      "salaryMin": 93600,
+      "salaryMax": 166400,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T22:43:05.458Z",
+      "firstIndexedAt": "2026-07-14T07:57:11.621Z",
+      "url": "https://www.dreamworkhq.com/job/30cb1776-4d4b-426d-9e07-88a8e9b9de69?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "4ad0dab0-cdf5-49b5-990c-6ed9d398e952",
+      "title": "Python Developer - Remote in Paraguay",
+      "company": "Anyone Ai",
+      "companyDomain": "anyoneai.com",
+      "location": "Paraguay",
+      "remoteType": "remote",
+      "salaryMin": 93600,
+      "salaryMax": 166400,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T22:44:31.104Z",
+      "firstIndexedAt": "2026-07-14T07:57:11.621Z",
+      "url": "https://www.dreamworkhq.com/job/4ad0dab0-cdf5-49b5-990c-6ed9d398e952?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "289374da-25b5-4588-b5be-d47f498d3ee2",
+      "title": "Python Developer - Egypt (Remote)",
+      "company": "Anyone Ai",
+      "companyDomain": "anyoneai.com",
+      "location": "Egypt",
+      "remoteType": "remote",
+      "salaryMin": 31200,
+      "salaryMax": 72800,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-13T18:30:00.631Z",
+      "firstIndexedAt": "2026-07-14T07:57:11.621Z",
+      "url": "https://www.dreamworkhq.com/job/289374da-25b5-4588-b5be-d47f498d3ee2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "28a65d8d-8e97-4b18-bc1a-8503e7099f15",
@@ -7299,20 +7383,6 @@
       "url": "https://www.dreamworkhq.com/job/28a65d8d-8e97-4b18-bc1a-8503e7099f15?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "ce26f175-33c9-4e6a-8a30-43d399c4a5cb",
-      "title": "Python Developer (Peru)",
-      "company": "Anyone Ai",
-      "companyDomain": "anyoneai.com",
-      "location": "Peru - Fully Remote",
-      "remoteType": "remote",
-      "salaryMin": 93600,
-      "salaryMax": 166400,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T22:45:03.080Z",
-      "firstIndexedAt": "2026-07-14T07:57:11.621Z",
-      "url": "https://www.dreamworkhq.com/job/ce26f175-33c9-4e6a-8a30-43d399c4a5cb?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "521a3b3b-cd4b-4264-bbc5-c30f9f41ec84",
       "title": "Python Developer (Colombia)",
       "company": "Anyone Ai",
@@ -7325,20 +7395,6 @@
       "postedAt": "2026-07-13T17:50:42.291Z",
       "firstIndexedAt": "2026-07-14T07:57:11.621Z",
       "url": "https://www.dreamworkhq.com/job/521a3b3b-cd4b-4264-bbc5-c30f9f41ec84?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "24492e9f-392e-4bec-97ce-94e605319e7a",
-      "title": "Python Developer - Remote in Brazil",
-      "company": "Anyone Ai",
-      "companyDomain": "anyoneai.com",
-      "location": "Brazil",
-      "remoteType": "remote",
-      "salaryMin": 93600,
-      "salaryMax": 166400,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T17:49:17.421Z",
-      "firstIndexedAt": "2026-07-14T07:57:11.621Z",
-      "url": "https://www.dreamworkhq.com/job/24492e9f-392e-4bec-97ce-94e605319e7a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "c05aed09-0a96-4ae8-b2f7-a1a63bd24ad9",
@@ -7369,48 +7425,6 @@
       "url": "https://www.dreamworkhq.com/job/db667a82-997f-427c-a2c0-1c306e84ea31?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "de3d5234-f318-425f-bc49-3a36daaebf80",
-      "title": "Python Developer (Chile)",
-      "company": "Anyone Ai",
-      "companyDomain": "anyoneai.com",
-      "location": "Chile",
-      "remoteType": "remote",
-      "salaryMin": 93600,
-      "salaryMax": 166400,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T17:50:01.014Z",
-      "firstIndexedAt": "2026-07-14T07:57:11.621Z",
-      "url": "https://www.dreamworkhq.com/job/de3d5234-f318-425f-bc49-3a36daaebf80?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "12a81389-febe-4dbe-9445-f7339005b7be",
-      "title": "Python Developer (Mexico)",
-      "company": "Anyone Ai",
-      "companyDomain": "anyoneai.com",
-      "location": "Mexico - Fully Remote",
-      "remoteType": "remote",
-      "salaryMin": 93600,
-      "salaryMax": 166400,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T22:43:42.192Z",
-      "firstIndexedAt": "2026-07-14T07:57:11.621Z",
-      "url": "https://www.dreamworkhq.com/job/12a81389-febe-4dbe-9445-f7339005b7be?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "4ad0dab0-cdf5-49b5-990c-6ed9d398e952",
-      "title": "Python Developer - Remote in Paraguay",
-      "company": "Anyone Ai",
-      "companyDomain": "anyoneai.com",
-      "location": "Paraguay",
-      "remoteType": "remote",
-      "salaryMin": 93600,
-      "salaryMax": 166400,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T22:44:31.104Z",
-      "firstIndexedAt": "2026-07-14T07:57:11.621Z",
-      "url": "https://www.dreamworkhq.com/job/4ad0dab0-cdf5-49b5-990c-6ed9d398e952?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "d863ae0f-2de5-4d61-aafd-b1fdec4e1df0",
       "title": "Python Developer (Ecuador)",
       "company": "Anyone Ai",
@@ -7425,32 +7439,32 @@
       "url": "https://www.dreamworkhq.com/job/d863ae0f-2de5-4d61-aafd-b1fdec4e1df0?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "30cb1776-4d4b-426d-9e07-88a8e9b9de69",
-      "title": "Python Developer - Remote in Germany",
+      "id": "ce26f175-33c9-4e6a-8a30-43d399c4a5cb",
+      "title": "Python Developer (Peru)",
       "company": "Anyone Ai",
       "companyDomain": "anyoneai.com",
-      "location": "Germany",
+      "location": "Peru - Fully Remote",
       "remoteType": "remote",
       "salaryMin": 93600,
       "salaryMax": 166400,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T22:43:05.458Z",
+      "postedAt": "2026-07-13T22:45:03.080Z",
       "firstIndexedAt": "2026-07-14T07:57:11.621Z",
-      "url": "https://www.dreamworkhq.com/job/30cb1776-4d4b-426d-9e07-88a8e9b9de69?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/ce26f175-33c9-4e6a-8a30-43d399c4a5cb?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "289374da-25b5-4588-b5be-d47f498d3ee2",
-      "title": "Python Developer - Egypt (Remote)",
+      "id": "de3d5234-f318-425f-bc49-3a36daaebf80",
+      "title": "Python Developer (Chile)",
       "company": "Anyone Ai",
       "companyDomain": "anyoneai.com",
-      "location": "Egypt",
+      "location": "Chile",
       "remoteType": "remote",
-      "salaryMin": 31200,
-      "salaryMax": 72800,
+      "salaryMin": 93600,
+      "salaryMax": 166400,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-13T18:30:00.631Z",
+      "postedAt": "2026-07-13T17:50:01.014Z",
       "firstIndexedAt": "2026-07-14T07:57:11.621Z",
-      "url": "https://www.dreamworkhq.com/job/289374da-25b5-4588-b5be-d47f498d3ee2?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/de3d5234-f318-425f-bc49-3a36daaebf80?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "1db3004b-11aa-4ecb-81f1-ef24df0f52e0",
@@ -7677,20 +7691,6 @@
       "url": "https://www.dreamworkhq.com/job/9394bdf1-17db-4e0a-8f9c-d43e1e6ca186?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "36c667d3-a59c-4cc8-9571-588dcf83fd6c",
-      "title": "Security Engineer",
-      "company": "PAR Retail (formerly Stuzo)",
-      "companyDomain": "parretail.com",
-      "location": "POL",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-13T15:51:36.301Z",
-      "firstIndexedAt": "2026-07-14T06:26:19.270Z",
-      "url": "https://www.dreamworkhq.com/job/36c667d3-a59c-4cc8-9571-588dcf83fd6c?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "6c9efb1a-5ff5-4a04-9d60-659b3e5c03bd",
       "title": "Application Security Engineer",
       "company": "SOFTSWISS",
@@ -7703,6 +7703,20 @@
       "postedAt": "2026-07-13T14:50:25.407Z",
       "firstIndexedAt": "2026-07-14T06:26:19.270Z",
       "url": "https://www.dreamworkhq.com/job/6c9efb1a-5ff5-4a04-9d60-659b3e5c03bd?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "36c667d3-a59c-4cc8-9571-588dcf83fd6c",
+      "title": "Security Engineer",
+      "company": "PAR Retail (formerly Stuzo)",
+      "companyDomain": "parretail.com",
+      "location": "POL",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-13T15:51:36.301Z",
+      "firstIndexedAt": "2026-07-14T06:26:19.270Z",
+      "url": "https://www.dreamworkhq.com/job/36c667d3-a59c-4cc8-9571-588dcf83fd6c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "e1b0237b-ae0c-4016-a117-523bd188f425",
@@ -8181,20 +8195,6 @@
       "url": "https://www.dreamworkhq.com/job/3108c46f-b7ff-466c-a2d6-ebb87ff6c4a0?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "f73ee44b-6795-41dc-a148-dc44000ccdbb",
-      "title": "Marketing Data Analyst (iGaming/Affiliate SEO)",
-      "company": "boringseo.team",
-      "companyDomain": "boringseo.team",
-      "location": "Remote",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-03T11:21:27.571Z",
-      "firstIndexedAt": "2026-07-13T06:27:31.511Z",
-      "url": "https://www.dreamworkhq.com/job/f73ee44b-6795-41dc-a148-dc44000ccdbb?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "34976c75-8c7f-4bb0-87f7-1962eb45b7a2",
       "title": "Marketing Data Analyst",
       "company": "boringseo.team",
@@ -8207,6 +8207,20 @@
       "postedAt": "2026-07-03T11:21:24.665Z",
       "firstIndexedAt": "2026-07-13T06:27:31.511Z",
       "url": "https://www.dreamworkhq.com/job/34976c75-8c7f-4bb0-87f7-1962eb45b7a2?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "f73ee44b-6795-41dc-a148-dc44000ccdbb",
+      "title": "Marketing Data Analyst (iGaming/Affiliate SEO)",
+      "company": "boringseo.team",
+      "companyDomain": "boringseo.team",
+      "location": "Remote",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-03T11:21:27.571Z",
+      "firstIndexedAt": "2026-07-13T06:27:31.511Z",
+      "url": "https://www.dreamworkhq.com/job/f73ee44b-6795-41dc-a148-dc44000ccdbb?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "cf9b9c41-aba9-4bec-a945-6dcbeb888912",
@@ -8643,7 +8657,7 @@
       "url": "https://www.dreamworkhq.com/job/3a273880-4317-4ee3-81c0-a59a3ab5a19f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "eb4a817b-5389-4f45-ad99-f2fb707f8363",
+      "id": "311b9099-a8c9-4eb5-b720-9720c259a062",
       "title": "Cybersecurity Engineer",
       "company": "Luxoft",
       "companyDomain": "luxoft.com",
@@ -8652,23 +8666,9 @@
       "salaryMin": null,
       "salaryMax": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-07T12:24:52.637Z",
+      "postedAt": "2026-07-07T13:46:52.753Z",
       "firstIndexedAt": "2026-07-13T06:26:01.896Z",
-      "url": "https://www.dreamworkhq.com/job/eb4a817b-5389-4f45-ad99-f2fb707f8363?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "9ee968c4-319b-4d69-94f9-5533c09e6e61",
-      "title": "Data Scientist",
-      "company": "Devart",
-      "companyDomain": "devart.com",
-      "location": "Europe",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-07T17:11:31.021Z",
-      "firstIndexedAt": "2026-07-13T06:26:00.772Z",
-      "url": "https://www.dreamworkhq.com/job/9ee968c4-319b-4d69-94f9-5533c09e6e61?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/311b9099-a8c9-4eb5-b720-9720c259a062?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "f8b545e9-60b7-4226-9235-cf633f8aa7b9",
@@ -8685,18 +8685,18 @@
       "url": "https://www.dreamworkhq.com/job/f8b545e9-60b7-4226-9235-cf633f8aa7b9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "96931eaa-2640-4e16-af92-814f2f2427f2",
-      "title": "Growth Product/Data Analyst",
-      "company": "RedCore",
-      "companyDomain": "redcore.com",
+      "id": "9ee968c4-319b-4d69-94f9-5533c09e6e61",
+      "title": "Data Scientist",
+      "company": "Devart",
+      "companyDomain": "devart.com",
       "location": "Europe",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-08T15:46:59.092Z",
-      "firstIndexedAt": "2026-07-13T06:25:57.548Z",
-      "url": "https://www.dreamworkhq.com/job/96931eaa-2640-4e16-af92-814f2f2427f2?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-07T17:11:31.021Z",
+      "firstIndexedAt": "2026-07-13T06:26:00.772Z",
+      "url": "https://www.dreamworkhq.com/job/9ee968c4-319b-4d69-94f9-5533c09e6e61?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "edb80034-0d6c-4b56-a56f-c847efc14f79",
@@ -8711,6 +8711,20 @@
       "postedAt": "2026-07-08T15:35:40.859Z",
       "firstIndexedAt": "2026-07-13T06:25:57.548Z",
       "url": "https://www.dreamworkhq.com/job/edb80034-0d6c-4b56-a56f-c847efc14f79?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "96931eaa-2640-4e16-af92-814f2f2427f2",
+      "title": "Growth Product/Data Analyst",
+      "company": "RedCore",
+      "companyDomain": "redcore.com",
+      "location": "Europe",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-08T15:46:59.092Z",
+      "firstIndexedAt": "2026-07-13T06:25:57.548Z",
+      "url": "https://www.dreamworkhq.com/job/96931eaa-2640-4e16-af92-814f2f2427f2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "071d5d63-9127-44dc-bdfd-0e57c06db6f3",
@@ -8783,20 +8797,6 @@
       "url": "https://www.dreamworkhq.com/job/9c255715-ddd5-4b99-96db-1c80ecb834c7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "9fc2e103-998f-4463-ad96-cf7d044d96ae",
-      "title": "Data Analyst (Performance Marketing)",
-      "company": "BetterMe",
-      "companyDomain": "bettermepain.com",
-      "location": "Europe",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-10T11:08:31.069Z",
-      "firstIndexedAt": "2026-07-13T06:25:50.672Z",
-      "url": "https://www.dreamworkhq.com/job/9fc2e103-998f-4463-ad96-cf7d044d96ae?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "b1b4aeb8-95f0-4aa5-8019-88b617bef438",
       "title": "Data Scientist (LLM, LangChain, RAG)",
       "company": "Dataforest",
@@ -8809,6 +8809,20 @@
       "postedAt": "2026-07-10T11:52:45.413Z",
       "firstIndexedAt": "2026-07-13T06:25:50.672Z",
       "url": "https://www.dreamworkhq.com/job/b1b4aeb8-95f0-4aa5-8019-88b617bef438?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "9fc2e103-998f-4463-ad96-cf7d044d96ae",
+      "title": "Data Analyst (Performance Marketing)",
+      "company": "BetterMe",
+      "companyDomain": "bettermepain.com",
+      "location": "Europe",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-10T11:08:31.069Z",
+      "firstIndexedAt": "2026-07-13T06:25:50.672Z",
+      "url": "https://www.dreamworkhq.com/job/9fc2e103-998f-4463-ad96-cf7d044d96ae?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "0b710252-b210-4e7b-bcaf-ff5a0d81e69d",
@@ -9035,20 +9049,6 @@
       "url": "https://www.dreamworkhq.com/job/ea2679b7-2fb6-4a58-b653-772d19b48fd2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "40a19187-f63b-40b0-b649-17029295ca1a",
-      "title": "Application Security Engineer",
-      "company": "Softswiss",
-      "companyDomain": "softswiss.com",
-      "location": "Warszawa, Poland",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-23T15:23:13.000Z",
-      "firstIndexedAt": "2026-07-10T18:31:53.952Z",
-      "url": "https://www.dreamworkhq.com/job/40a19187-f63b-40b0-b649-17029295ca1a?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "6b8b6f9b-46a1-4161-b0de-8e3bc42ae3b9",
       "title": "Cybersecurity Engineer",
       "company": "Softswiss",
@@ -9063,18 +9063,18 @@
       "url": "https://www.dreamworkhq.com/job/6b8b6f9b-46a1-4161-b0de-8e3bc42ae3b9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "d801087e-42e1-40eb-b536-0348ff89a2c0",
-      "title": "MicroStrategy / Power BI Developer",
-      "company": "Techbizglobal",
-      "companyDomain": "techbiz.global",
-      "location": "Remote job",
+      "id": "40a19187-f63b-40b0-b649-17029295ca1a",
+      "title": "Application Security Engineer",
+      "company": "Softswiss",
+      "companyDomain": "softswiss.com",
+      "location": "Warszawa, Poland",
       "remoteType": "remote",
-      "salaryMin": 14000,
-      "salaryMax": 22000,
+      "salaryMin": null,
+      "salaryMax": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2025-11-06T12:28:10.000Z",
-      "firstIndexedAt": "2026-07-10T18:31:49.388Z",
-      "url": "https://www.dreamworkhq.com/job/d801087e-42e1-40eb-b536-0348ff89a2c0?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "postedAt": "2026-04-23T15:23:13.000Z",
+      "firstIndexedAt": "2026-07-10T18:31:53.952Z",
+      "url": "https://www.dreamworkhq.com/job/40a19187-f63b-40b0-b649-17029295ca1a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "a95bc162-bc16-40f0-acb7-3cb03d44de4e",
@@ -9105,6 +9105,20 @@
       "url": "https://www.dreamworkhq.com/job/73e7dccb-a7c1-4214-9961-454ad6077ce8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "d801087e-42e1-40eb-b536-0348ff89a2c0",
+      "title": "MicroStrategy / Power BI Developer",
+      "company": "Techbizglobal",
+      "companyDomain": "techbiz.global",
+      "location": "Remote job",
+      "remoteType": "remote",
+      "salaryMin": 14000,
+      "salaryMax": 22000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-11-06T12:28:10.000Z",
+      "firstIndexedAt": "2026-07-10T18:31:49.388Z",
+      "url": "https://www.dreamworkhq.com/job/d801087e-42e1-40eb-b536-0348ff89a2c0?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "28368cda-b073-457a-bc7c-ee33f3ab938a",
       "title": "data analyst - informatics and systems",
       "company": "OctoAI",
@@ -9119,20 +9133,6 @@
       "url": "https://www.dreamworkhq.com/job/28368cda-b073-457a-bc7c-ee33f3ab938a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "fa0c8136-4901-4e1b-81fe-465ee4a24f3b",
-      "title": "Data Scientist",
-      "company": "Insight Solutions",
-      "companyDomain": "insightsolutions.ai",
-      "location": "Remote (Spain)",
-      "remoteType": "remote",
-      "salaryMin": 65000,
-      "salaryMax": 65000,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-03T13:28:59.336Z",
-      "firstIndexedAt": "2026-07-10T18:06:16.101Z",
-      "url": "https://www.dreamworkhq.com/job/fa0c8136-4901-4e1b-81fe-465ee4a24f3b?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "90e9db59-6d82-40ca-b292-04f5998ceb0a",
       "title": "Data Analyst",
       "company": "EchoWi",
@@ -9145,6 +9145,20 @@
       "postedAt": "2026-07-09T17:07:21.508Z",
       "firstIndexedAt": "2026-07-10T18:06:16.101Z",
       "url": "https://www.dreamworkhq.com/job/90e9db59-6d82-40ca-b292-04f5998ceb0a?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "fa0c8136-4901-4e1b-81fe-465ee4a24f3b",
+      "title": "Data Scientist",
+      "company": "Insight Solutions",
+      "companyDomain": "insightsolutions.ai",
+      "location": "Remote (Spain)",
+      "remoteType": "remote",
+      "salaryMin": 65000,
+      "salaryMax": 65000,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-03T13:28:59.336Z",
+      "firstIndexedAt": "2026-07-10T18:06:16.101Z",
+      "url": "https://www.dreamworkhq.com/job/fa0c8136-4901-4e1b-81fe-465ee4a24f3b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "ad68ed1c-0b86-4af6-af2c-8b00bf38e066",
